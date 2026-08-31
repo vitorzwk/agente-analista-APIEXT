@@ -1,0 +1,994 @@
+﻿data,produto,categoria,vendedor,quantidade_vendida,preco_unitario,valor_total,estoque_atual,estoque_minimo,meta_mensal_vendedor
+2025-01-01,Meia Kit c/3,Vestuário,Beatriz Rocha,4,29.9,119.6,99,25,20000
+2025-01-01,Boné Aba Reta,Acessórios,Diego Alves,5,49.9,249.5,89,20,12000
+2025-01-01,Boné Aba Reta,Acessórios,Ana Souza,2,49.9,99.8,89,20,18000
+2025-01-01,Óculos de Sol,Acessórios,Diego Alves,5,119.9,599.5,40,9,12000
+2025-01-01,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,88,20,18000
+2025-01-01,Boné Aba Reta,Acessórios,Beatriz Rocha,4,49.9,199.6,88,20,20000
+2025-01-01,Bota Coturno,Calçados,Ana Souza,1,289.9,289.9,18,4,18000
+2025-01-02,Camiseta Basic,Vestuário,Diego Alves,1,39.9,39.9,80,15,12000
+2025-01-02,Óculos de Sol,Acessórios,Carlos Lima,5,119.9,599.5,40,9,15000
+2025-01-02,Meia Kit c/3,Vestuário,Diego Alves,4,29.9,119.6,98,25,12000
+2025-01-02,Óculos de Sol,Acessórios,Diego Alves,1,119.9,119.9,39,9,12000
+2025-01-02,Camiseta Basic,Vestuário,Ana Souza,5,39.9,199.5,80,15,18000
+2025-01-02,Boné Aba Reta,Acessórios,Diego Alves,3,49.9,149.7,87,20,12000
+2025-01-02,Tênis Urbano,Calçados,Ana Souza,5,249.9,1249.5,29,6,18000
+2025-01-02,Camiseta Basic,Vestuário,Carlos Lima,5,39.9,199.5,79,15,15000
+2025-01-03,Tênis Urbano,Calçados,Diego Alves,4,249.9,999.6,28,6,12000
+2025-01-03,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,27,6,12000
+2025-01-03,Calça Jeans,Vestuário,Diego Alves,2,129.9,259.8,39,8,12000
+2025-01-03,Meia Kit c/3,Vestuário,Carlos Lima,2,29.9,59.8,97,25,15000
+2025-01-04,Tênis Urbano,Calçados,Beatriz Rocha,3,249.9,749.7,26,6,20000
+2025-01-04,Boné Aba Reta,Acessórios,Diego Alves,4,49.9,199.6,87,20,12000
+2025-01-04,Camiseta Basic,Vestuário,Ana Souza,4,39.9,159.6,78,15,18000
+2025-01-04,Meia Kit c/3,Vestuário,Ana Souza,4,29.9,119.6,97,25,18000
+2025-01-04,Sandália Casual,Calçados,Carlos Lima,5,89.9,449.5,44,10,15000
+2025-01-05,Tênis Urbano,Calçados,Ana Souza,5,249.9,1249.5,25,6,18000
+2025-01-05,Óculos de Sol,Acessórios,Beatriz Rocha,3,119.9,359.7,39,9,20000
+2025-01-05,Boné Aba Reta,Acessórios,Carlos Lima,3,49.9,149.7,86,20,15000
+2025-01-05,Tênis Urbano,Calçados,Carlos Lima,5,249.9,1249.5,25,6,15000
+2025-01-05,Óculos de Sol,Acessórios,Beatriz Rocha,5,119.9,599.5,38,9,20000
+2025-01-05,Boné Aba Reta,Acessórios,Carlos Lima,3,49.9,149.7,85,20,15000
+2025-01-06,Sandália Casual,Calçados,Ana Souza,2,89.9,179.8,43,10,18000
+2025-01-06,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,78,15,18000
+2025-01-06,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,34,7,18000
+2025-01-06,Sandália Casual,Calçados,Carlos Lima,3,89.9,269.7,42,10,15000
+2025-01-06,Bota Coturno,Calçados,Diego Alves,2,289.9,579.8,17,4,12000
+2025-01-06,Meia Kit c/3,Vestuário,Ana Souza,5,29.9,149.5,97,25,18000
+2025-01-06,Bota Coturno,Calçados,Carlos Lima,5,289.9,1449.5,15,4,15000
+2025-01-06,Meia Kit c/3,Vestuário,Diego Alves,1,29.9,29.9,96,25,12000
+2025-01-07,Bota Coturno,Calçados,Beatriz Rocha,4,289.9,1159.6,14,4,20000
+2025-01-07,Óculos de Sol,Acessórios,Diego Alves,2,119.9,239.8,38,9,12000
+2025-01-07,Sandália Casual,Calçados,Diego Alves,3,89.9,269.7,41,10,12000
+2025-01-07,Mochila Executiva,Acessórios,Diego Alves,4,159.9,639.6,33,7,12000
+2025-01-07,Jaqueta Corta-Vento,Vestuário,Diego Alves,5,199.9,999.5,24,5,12000
+2025-01-07,Bota Coturno,Calçados,Diego Alves,1,289.9,289.9,12,4,12000
+2025-01-07,Boné Aba Reta,Acessórios,Diego Alves,2,49.9,99.8,84,20,12000
+2025-01-07,Óculos de Sol,Acessórios,Ana Souza,4,119.9,479.6,38,9,18000
+2025-01-08,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,96,25,20000
+2025-01-08,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,77,15,12000
+2025-01-08,Meia Kit c/3,Vestuário,Carlos Lima,4,29.9,119.6,95,25,15000
+2025-01-08,Camiseta Basic,Vestuário,Ana Souza,2,39.9,79.8,76,15,18000
+2025-01-08,Calça Jeans,Vestuário,Carlos Lima,4,129.9,519.6,38,8,15000
+2025-01-08,Jaqueta Corta-Vento,Vestuário,Ana Souza,3,199.9,599.7,23,5,18000
+2025-01-08,Sandália Casual,Calçados,Beatriz Rocha,4,89.9,359.6,41,10,20000
+2025-01-08,Óculos de Sol,Acessórios,Diego Alves,2,119.9,239.8,38,9,12000
+2025-01-09,Tênis Urbano,Calçados,Beatriz Rocha,3,249.9,749.7,25,6,20000
+2025-01-09,Boné Aba Reta,Acessórios,Carlos Lima,1,49.9,49.9,84,20,15000
+2025-01-09,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,84,20,18000
+2025-01-09,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,95,25,20000
+2025-01-10,Bota Coturno,Calçados,Carlos Lima,1,289.9,289.9,10,4,15000
+2025-01-10,Camiseta Basic,Vestuário,Ana Souza,5,39.9,199.5,75,15,18000
+2025-01-10,Calça Jeans,Vestuário,Carlos Lima,3,129.9,389.7,38,8,15000
+2025-01-11,Boné Aba Reta,Acessórios,Ana Souza,3,49.9,149.7,84,20,18000
+2025-01-11,Camiseta Basic,Vestuário,Beatriz Rocha,4,39.9,159.6,74,15,20000
+2025-01-11,Óculos de Sol,Acessórios,Diego Alves,2,119.9,239.8,38,9,12000
+2025-01-12,Calça Jeans,Vestuário,Diego Alves,4,129.9,519.6,38,8,12000
+2025-01-12,Mochila Executiva,Acessórios,Diego Alves,4,159.9,639.6,32,7,12000
+2025-01-12,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,74,15,15000
+2025-01-13,Calça Jeans,Vestuário,Ana Souza,5,129.9,649.5,38,8,18000
+2025-01-13,Calça Jeans,Vestuário,Diego Alves,1,129.9,129.9,37,8,12000
+2025-01-13,Jaqueta Corta-Vento,Vestuário,Ana Souza,5,199.9,999.5,22,5,18000
+2025-01-14,Calça Jeans,Vestuário,Beatriz Rocha,1,129.9,129.9,36,8,20000
+2025-01-14,Jaqueta Corta-Vento,Vestuário,Carlos Lima,3,199.9,599.7,20,5,15000
+2025-01-14,Boné Aba Reta,Acessórios,Diego Alves,1,49.9,49.9,84,20,12000
+2025-01-14,Mochila Executiva,Acessórios,Beatriz Rocha,5,159.9,799.5,32,7,20000
+2025-01-14,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,32,7,15000
+2025-01-14,Mochila Executiva,Acessórios,Ana Souza,4,159.9,639.6,31,7,18000
+2025-01-14,Boné Aba Reta,Acessórios,Ana Souza,5,49.9,249.5,83,20,18000
+2025-01-15,Meia Kit c/3,Vestuário,Ana Souza,3,29.9,89.7,94,25,18000
+2025-01-15,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,30,7,15000
+2025-01-15,Sandália Casual,Calçados,Ana Souza,4,89.9,359.6,40,10,18000
+2025-01-16,Camiseta Basic,Vestuário,Ana Souza,2,39.9,79.8,73,15,18000
+2025-01-16,Jaqueta Corta-Vento,Vestuário,Diego Alves,4,199.9,799.6,19,5,12000
+2025-01-16,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,37,9,15000
+2025-01-16,Boné Aba Reta,Acessórios,Carlos Lima,4,49.9,199.6,82,20,15000
+2025-01-16,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,29,7,15000
+2025-01-16,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,36,8,15000
+2025-01-16,Jaqueta Corta-Vento,Vestuário,Diego Alves,4,199.9,799.6,17,5,12000
+2025-01-17,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,81,20,18000
+2025-01-17,Óculos de Sol,Acessórios,Ana Souza,2,119.9,239.8,37,9,18000
+2025-01-17,Tênis Urbano,Calçados,Ana Souza,1,249.9,249.9,25,6,18000
+2025-01-17,Calça Jeans,Vestuário,Diego Alves,2,129.9,259.8,35,8,12000
+2025-01-17,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,8,4,20000
+2025-01-18,Tênis Urbano,Calçados,Diego Alves,3,249.9,749.7,25,6,12000
+2025-01-18,Jaqueta Corta-Vento,Vestuário,Diego Alves,1,199.9,199.9,16,5,12000
+2025-01-18,Sandália Casual,Calçados,Carlos Lima,1,89.9,89.9,40,10,15000
+2025-01-18,Camiseta Basic,Vestuário,Beatriz Rocha,3,39.9,119.7,72,15,20000
+2025-01-18,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,5,199.9,999.5,14,5,20000
+2025-01-18,Meia Kit c/3,Vestuário,Ana Souza,5,29.9,149.5,93,25,18000
+2025-01-19,Meia Kit c/3,Vestuário,Carlos Lima,5,29.9,149.5,93,25,15000
+2025-01-19,Jaqueta Corta-Vento,Vestuário,Ana Souza,4,199.9,799.6,12,5,18000
+2025-01-19,Tênis Urbano,Calçados,Carlos Lima,3,249.9,749.7,25,6,15000
+2025-01-19,Sandália Casual,Calçados,Diego Alves,3,89.9,269.7,40,10,12000
+2025-01-20,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,92,25,20000
+2025-01-20,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,6,4,20000
+2025-01-20,Tênis Urbano,Calçados,Beatriz Rocha,3,249.9,749.7,25,6,20000
+2025-01-20,Sandália Casual,Calçados,Diego Alves,5,89.9,449.5,40,10,12000
+2025-01-20,Boné Aba Reta,Acessórios,Beatriz Rocha,3,49.9,149.7,81,20,20000
+2025-01-20,Jaqueta Corta-Vento,Vestuário,Diego Alves,1,199.9,199.9,11,5,12000
+2025-01-20,Óculos de Sol,Acessórios,Carlos Lima,5,119.9,599.5,37,9,15000
+2025-01-20,Sandália Casual,Calçados,Carlos Lima,5,89.9,449.5,40,10,15000
+2025-01-21,Meia Kit c/3,Vestuário,Diego Alves,1,29.9,29.9,91,25,12000
+2025-01-21,Camiseta Basic,Vestuário,Beatriz Rocha,3,39.9,119.7,72,15,20000
+2025-01-21,Jaqueta Corta-Vento,Vestuário,Ana Souza,5,199.9,999.5,9,5,18000
+2025-01-21,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,71,15,18000
+2025-01-21,Boné Aba Reta,Acessórios,Beatriz Rocha,5,49.9,249.5,80,20,20000
+2025-01-21,Tênis Urbano,Calçados,Carlos Lima,1,249.9,249.9,25,6,15000
+2025-01-21,Mochila Executiva,Acessórios,Diego Alves,5,159.9,799.5,28,7,12000
+2025-01-21,Óculos de Sol,Acessórios,Diego Alves,5,119.9,599.5,37,9,12000
+2025-01-22,Boné Aba Reta,Acessórios,Carlos Lima,3,49.9,149.7,80,20,15000
+2025-01-22,Óculos de Sol,Acessórios,Beatriz Rocha,3,119.9,359.7,36,9,20000
+2025-01-22,Camiseta Basic,Vestuário,Diego Alves,1,39.9,39.9,70,15,12000
+2025-01-22,Sandália Casual,Calçados,Beatriz Rocha,4,89.9,359.6,40,10,20000
+2025-01-22,Boné Aba Reta,Acessórios,Beatriz Rocha,5,49.9,249.5,80,20,20000
+2025-01-23,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,69,15,18000
+2025-01-23,Camiseta Basic,Vestuário,Ana Souza,4,39.9,159.6,69,15,18000
+2025-01-23,Bota Coturno,Calçados,Ana Souza,2,289.9,579.8,4,4,18000
+2025-01-23,Meia Kit c/3,Vestuário,Ana Souza,2,29.9,59.8,90,25,18000
+2025-01-23,Mochila Executiva,Acessórios,Beatriz Rocha,4,159.9,639.6,28,7,20000
+2025-01-23,Bota Coturno,Calçados,Carlos Lima,5,289.9,1449.5,2,4,15000
+2025-01-23,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,28,7,18000
+2025-01-24,Tênis Urbano,Calçados,Carlos Lima,1,249.9,249.9,25,6,15000
+2025-01-24,Sandália Casual,Calçados,Diego Alves,1,89.9,89.9,40,10,12000
+2025-01-24,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,90,25,20000
+2025-01-24,Jaqueta Corta-Vento,Vestuário,Diego Alves,1,199.9,199.9,7,5,12000
+2025-01-24,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,90,25,20000
+2025-01-24,Boné Aba Reta,Acessórios,Diego Alves,5,49.9,249.5,80,20,12000
+2025-01-24,Meia Kit c/3,Vestuário,Diego Alves,2,29.9,59.8,90,25,12000
+2025-01-24,Calça Jeans,Vestuário,Ana Souza,3,129.9,389.7,35,8,18000
+2025-01-25,Mochila Executiva,Acessórios,Diego Alves,2,159.9,319.8,28,7,12000
+2025-01-25,Óculos de Sol,Acessórios,Diego Alves,5,119.9,599.5,35,9,12000
+2025-01-25,Tênis Urbano,Calçados,Beatriz Rocha,6,249.9,1499.4,24,6,20000
+2025-01-25,Bota Coturno,Calçados,Carlos Lima,2,289.9,579.8,1,4,15000
+2025-01-25,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,90,25,20000
+2025-01-26,Óculos de Sol,Acessórios,Beatriz Rocha,5,119.9,599.5,35,9,20000
+2025-01-26,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,5,199.9,999.5,5,5,20000
+2025-01-26,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,35,8,18000
+2025-01-26,Meia Kit c/3,Vestuário,Carlos Lima,5,29.9,149.5,89,25,15000
+2025-01-26,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,23,6,20000
+2025-01-26,Camiseta Basic,Vestuário,Beatriz Rocha,6,39.9,239.4,69,15,20000
+2025-01-27,Bota Coturno,Calçados,Ana Souza,6,289.9,1739.4,0,4,18000
+2025-01-27,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,69,15,18000
+2025-01-27,Mochila Executiva,Acessórios,Diego Alves,5,159.9,799.5,27,7,12000
+2025-01-27,Camiseta Basic,Vestuário,Diego Alves,1,39.9,39.9,68,15,12000
+2025-01-27,Mochila Executiva,Acessórios,Diego Alves,6,159.9,959.4,26,7,12000
+2025-01-27,Óculos de Sol,Acessórios,Beatriz Rocha,3,119.9,359.7,35,9,20000
+2025-01-27,Boné Aba Reta,Acessórios,Carlos Lima,5,49.9,249.5,80,20,15000
+2025-01-28,Meia Kit c/3,Vestuário,Diego Alves,3,29.9,89.7,88,25,12000
+2025-01-28,Sandália Casual,Calçados,Beatriz Rocha,2,89.9,179.8,39,10,20000
+2025-01-28,Bota Coturno,Calçados,Ana Souza,2,289.9,579.8,0,4,18000
+2025-01-28,Calça Jeans,Vestuário,Diego Alves,2,129.9,259.8,35,8,12000
+2025-01-28,Óculos de Sol,Acessórios,Beatriz Rocha,1,119.9,119.9,34,9,20000
+2025-01-28,Jaqueta Corta-Vento,Vestuário,Carlos Lima,1,199.9,199.9,4,5,15000
+2025-01-29,Boné Aba Reta,Acessórios,Ana Souza,6,49.9,299.4,80,20,18000
+2025-01-29,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,67,15,15000
+2025-01-29,Bota Coturno,Calçados,Beatriz Rocha,2,289.9,579.8,0,4,20000
+2025-01-29,Mochila Executiva,Acessórios,Diego Alves,5,159.9,799.5,26,7,12000
+2025-01-29,Óculos de Sol,Acessórios,Diego Alves,1,119.9,119.9,33,9,12000
+2025-01-29,Tênis Urbano,Calçados,Diego Alves,1,249.9,249.9,23,6,12000
+2025-01-30,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,66,15,18000
+2025-01-30,Sandália Casual,Calçados,Beatriz Rocha,1,89.9,89.9,39,10,20000
+2025-01-30,Bota Coturno,Calçados,Diego Alves,5,289.9,1449.5,0,4,12000
+2025-01-30,Sandália Casual,Calçados,Carlos Lima,5,89.9,449.5,39,10,15000
+2025-01-30,Óculos de Sol,Acessórios,Beatriz Rocha,5,119.9,599.5,33,9,20000
+2025-01-30,Bota Coturno,Calçados,Carlos Lima,5,289.9,1449.5,0,4,15000
+2025-01-30,Camiseta Basic,Vestuário,Carlos Lima,2,39.9,79.8,66,15,15000
+2025-01-30,Boné Aba Reta,Acessórios,Diego Alves,3,49.9,149.7,79,20,12000
+2025-01-31,Sandália Casual,Calçados,Ana Souza,3,89.9,269.7,38,10,18000
+2025-01-31,Bota Coturno,Calçados,Diego Alves,5,289.9,1449.5,0,4,12000
+2025-01-31,Meia Kit c/3,Vestuário,Diego Alves,1,29.9,29.9,88,25,12000
+2025-01-31,Meia Kit c/3,Vestuário,Carlos Lima,6,29.9,179.4,88,25,15000
+2025-01-31,Tênis Urbano,Calçados,Carlos Lima,6,249.9,1499.4,22,6,15000
+2025-01-31,Tênis Urbano,Calçados,Diego Alves,1,249.9,249.9,22,6,12000
+2025-01-31,Óculos de Sol,Acessórios,Carlos Lima,6,119.9,719.4,33,9,15000
+2025-02-01,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,40,9,15000
+2025-02-01,Meia Kit c/3,Vestuário,Ana Souza,2,29.9,59.8,99,25,18000
+2025-02-01,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,44,10,15000
+2025-02-01,Jaqueta Corta-Vento,Vestuário,Carlos Lima,4,199.9,799.6,3,5,15000
+2025-02-01,Meia Kit c/3,Vestuário,Carlos Lima,2,29.9,59.8,99,25,15000
+2025-02-01,Calça Jeans,Vestuário,Carlos Lima,4,129.9,519.6,40,8,15000
+2025-02-02,Mochila Executiva,Acessórios,Ana Souza,2,159.9,319.8,35,7,18000
+2025-02-02,Camiseta Basic,Vestuário,Ana Souza,2,39.9,79.8,79,15,18000
+2025-02-02,Sandália Casual,Calçados,Ana Souza,3,89.9,269.7,44,10,18000
+2025-02-02,Sandália Casual,Calçados,Beatriz Rocha,2,89.9,179.8,43,10,20000
+2025-02-02,Tênis Urbano,Calçados,Ana Souza,1,249.9,249.9,29,6,18000
+2025-02-03,Camiseta Basic,Vestuário,Carlos Lima,1,39.9,39.9,78,15,15000
+2025-02-03,Tênis Urbano,Calçados,Diego Alves,3,249.9,749.7,28,6,12000
+2025-02-03,Jaqueta Corta-Vento,Vestuário,Ana Souza,3,199.9,599.7,1,5,18000
+2025-02-03,Camiseta Basic,Vestuário,Carlos Lima,5,39.9,199.5,77,15,15000
+2025-02-03,Bota Coturno,Calçados,Ana Souza,4,289.9,1159.6,0,4,18000
+2025-02-04,Tênis Urbano,Calçados,Beatriz Rocha,5,249.9,1249.5,27,6,20000
+2025-02-04,Meia Kit c/3,Vestuário,Ana Souza,1,29.9,29.9,99,25,18000
+2025-02-04,Boné Aba Reta,Acessórios,Ana Souza,3,49.9,149.7,89,20,18000
+2025-02-04,Tênis Urbano,Calçados,Carlos Lima,1,249.9,249.9,27,6,15000
+2025-02-04,Mochila Executiva,Acessórios,Carlos Lima,1,159.9,159.9,34,7,15000
+2025-02-05,Jaqueta Corta-Vento,Vestuário,Diego Alves,2,199.9,399.8,0,5,12000
+2025-02-05,Camiseta Basic,Vestuário,Ana Souza,5,39.9,199.5,77,15,18000
+2025-02-05,Camiseta Basic,Vestuário,Carlos Lima,5,39.9,199.5,76,15,15000
+2025-02-05,Calça Jeans,Vestuário,Beatriz Rocha,1,129.9,129.9,39,8,20000
+2025-02-05,Boné Aba Reta,Acessórios,Diego Alves,2,49.9,99.8,88,20,12000
+2025-02-06,Sandália Casual,Calçados,Ana Souza,2,89.9,179.8,42,10,18000
+2025-02-06,Jaqueta Corta-Vento,Vestuário,Ana Souza,2,199.9,399.8,0,5,18000
+2025-02-06,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,75,15,18000
+2025-02-07,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,99,25,20000
+2025-02-07,Mochila Executiva,Acessórios,Ana Souza,2,159.9,319.8,33,7,18000
+2025-02-07,Boné Aba Reta,Acessórios,Beatriz Rocha,2,49.9,99.8,87,20,20000
+2025-02-07,Bota Coturno,Calçados,Carlos Lima,3,289.9,869.7,0,4,15000
+2025-02-08,Camiseta Basic,Vestuário,Diego Alves,1,39.9,39.9,74,15,12000
+2025-02-08,Camiseta Basic,Vestuário,Diego Alves,4,39.9,159.6,73,15,12000
+2025-02-08,Camiseta Basic,Vestuário,Ana Souza,1,39.9,39.9,72,15,18000
+2025-02-08,Óculos de Sol,Acessórios,Beatriz Rocha,3,119.9,359.7,40,9,20000
+2025-02-09,Camiseta Basic,Vestuário,Carlos Lima,5,39.9,199.5,72,15,15000
+2025-02-09,Meia Kit c/3,Vestuário,Beatriz Rocha,5,29.9,149.5,98,25,20000
+2025-02-09,Boné Aba Reta,Acessórios,Beatriz Rocha,3,49.9,149.7,86,20,20000
+2025-02-09,Boné Aba Reta,Acessórios,Beatriz Rocha,1,49.9,49.9,85,20,20000
+2025-02-09,Boné Aba Reta,Acessórios,Carlos Lima,3,49.9,149.7,84,20,15000
+2025-02-10,Camiseta Basic,Vestuário,Carlos Lima,2,39.9,79.8,71,15,15000
+2025-02-10,Óculos de Sol,Acessórios,Ana Souza,2,119.9,239.8,39,9,18000
+2025-02-10,Sandália Casual,Calçados,Ana Souza,3,89.9,269.7,42,10,18000
+2025-02-11,Tênis Urbano,Calçados,Beatriz Rocha,4,249.9,999.6,26,6,20000
+2025-02-11,Jaqueta Corta-Vento,Vestuário,Ana Souza,1,199.9,199.9,0,5,18000
+2025-02-11,Mochila Executiva,Acessórios,Diego Alves,1,159.9,159.9,32,7,12000
+2025-02-11,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,38,8,20000
+2025-02-12,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,2,199.9,399.8,0,5,20000
+2025-02-12,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,97,25,20000
+2025-02-12,Óculos de Sol,Acessórios,Ana Souza,1,119.9,119.9,39,9,18000
+2025-02-12,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,39,9,15000
+2025-02-12,Óculos de Sol,Acessórios,Beatriz Rocha,2,119.9,239.8,38,9,20000
+2025-02-12,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,38,8,20000
+2025-02-13,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,38,8,15000
+2025-02-13,Camiseta Basic,Vestuário,Carlos Lima,1,39.9,39.9,70,15,15000
+2025-02-13,Sandália Casual,Calçados,Ana Souza,1,89.9,89.9,41,10,18000
+2025-02-13,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,26,6,12000
+2025-02-13,Calça Jeans,Vestuário,Carlos Lima,2,129.9,259.8,38,8,15000
+2025-02-13,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,0,4,20000
+2025-02-14,Tênis Urbano,Calçados,Ana Souza,3,249.9,749.7,25,6,18000
+2025-02-14,Calça Jeans,Vestuário,Diego Alves,1,129.9,129.9,37,8,12000
+2025-02-14,Sandália Casual,Calçados,Beatriz Rocha,2,89.9,179.8,40,10,20000
+2025-02-15,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,36,8,20000
+2025-02-15,Bota Coturno,Calçados,Diego Alves,5,289.9,1449.5,0,4,12000
+2025-02-15,Camiseta Basic,Vestuário,Ana Souza,4,39.9,159.6,69,15,18000
+2025-02-15,Óculos de Sol,Acessórios,Diego Alves,3,119.9,359.7,38,9,12000
+2025-02-15,Óculos de Sol,Acessórios,Beatriz Rocha,4,119.9,479.6,37,9,20000
+2025-02-15,Meia Kit c/3,Vestuário,Ana Souza,3,29.9,89.7,96,25,18000
+2025-02-16,Mochila Executiva,Acessórios,Carlos Lima,5,159.9,799.5,31,7,15000
+2025-02-16,Mochila Executiva,Acessórios,Diego Alves,1,159.9,159.9,30,7,12000
+2025-02-16,Meia Kit c/3,Vestuário,Beatriz Rocha,5,29.9,149.5,96,25,20000
+2025-02-16,Sandália Casual,Calçados,Carlos Lima,5,89.9,449.5,40,10,15000
+2025-02-17,Bota Coturno,Calçados,Beatriz Rocha,5,289.9,1449.5,0,4,20000
+2025-02-17,Bota Coturno,Calçados,Ana Souza,2,289.9,579.8,0,4,18000
+2025-02-17,Sandália Casual,Calçados,Ana Souza,5,89.9,449.5,40,10,18000
+2025-02-18,Óculos de Sol,Acessórios,Diego Alves,1,119.9,119.9,37,9,12000
+2025-02-18,Camiseta Basic,Vestuário,Beatriz Rocha,5,39.9,199.5,69,15,20000
+2025-02-18,Mochila Executiva,Acessórios,Beatriz Rocha,1,159.9,159.9,30,7,20000
+2025-02-18,Boné Aba Reta,Acessórios,Ana Souza,3,49.9,149.7,83,20,18000
+2025-02-18,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,24,6,12000
+2025-02-19,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,1,199.9,199.9,0,5,20000
+2025-02-19,Óculos de Sol,Acessórios,Beatriz Rocha,4,119.9,479.6,36,9,20000
+2025-02-19,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,0,4,20000
+2025-02-20,Boné Aba Reta,Acessórios,Ana Souza,4,49.9,199.6,82,20,18000
+2025-02-20,Bota Coturno,Calçados,Ana Souza,5,289.9,1449.5,0,4,18000
+2025-02-20,Calça Jeans,Vestuário,Carlos Lima,3,129.9,389.7,36,8,15000
+2025-02-20,Óculos de Sol,Acessórios,Diego Alves,2,119.9,239.8,35,9,12000
+2025-02-20,Sandália Casual,Calçados,Beatriz Rocha,4,89.9,359.6,40,10,20000
+2025-02-20,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,96,25,20000
+2025-02-21,Meia Kit c/3,Vestuário,Diego Alves,3,29.9,89.7,95,25,12000
+2025-02-21,Boné Aba Reta,Acessórios,Beatriz Rocha,4,49.9,199.6,81,20,20000
+2025-02-21,Jaqueta Corta-Vento,Vestuário,Diego Alves,1,199.9,199.9,0,5,12000
+2025-02-21,Sandália Casual,Calçados,Beatriz Rocha,4,89.9,359.6,39,10,20000
+2025-02-21,Tênis Urbano,Calçados,Ana Souza,2,249.9,499.8,24,6,18000
+2025-02-21,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,23,6,20000
+2025-02-21,Bota Coturno,Calçados,Ana Souza,4,289.9,1159.6,0,4,18000
+2025-02-21,Jaqueta Corta-Vento,Vestuário,Ana Souza,3,199.9,599.7,0,5,18000
+2025-02-22,Bota Coturno,Calçados,Carlos Lima,5,289.9,1449.5,0,4,15000
+2025-02-22,Tênis Urbano,Calçados,Carlos Lima,2,249.9,499.8,22,6,15000
+2025-02-22,Meia Kit c/3,Vestuário,Ana Souza,1,29.9,29.9,95,25,18000
+2025-02-22,Sandália Casual,Calçados,Beatriz Rocha,5,89.9,449.5,39,10,20000
+2025-02-23,Camiseta Basic,Vestuário,Carlos Lima,4,39.9,159.6,68,15,15000
+2025-02-23,Bota Coturno,Calçados,Diego Alves,2,289.9,579.8,0,4,12000
+2025-02-23,Óculos de Sol,Acessórios,Beatriz Rocha,1,119.9,119.9,34,9,20000
+2025-02-24,Camiseta Basic,Vestuário,Beatriz Rocha,2,39.9,79.8,68,15,20000
+2025-02-24,Meia Kit c/3,Vestuário,Ana Souza,1,29.9,29.9,94,25,18000
+2025-02-24,Calça Jeans,Vestuário,Carlos Lima,4,129.9,519.6,35,8,15000
+2025-02-24,Calça Jeans,Vestuário,Carlos Lima,5,129.9,649.5,34,8,15000
+2025-02-24,Mochila Executiva,Acessórios,Diego Alves,4,159.9,639.6,29,7,12000
+2025-02-24,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,28,7,15000
+2025-02-25,Mochila Executiva,Acessórios,Carlos Lima,1,159.9,159.9,28,7,15000
+2025-02-25,Mochila Executiva,Acessórios,Carlos Lima,5,159.9,799.5,28,7,15000
+2025-02-25,Mochila Executiva,Acessórios,Carlos Lima,6,159.9,959.4,28,7,15000
+2025-02-25,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,34,9,15000
+2025-02-25,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,33,8,20000
+2025-02-25,Tênis Urbano,Calçados,Ana Souza,5,249.9,1249.5,22,6,18000
+2025-02-26,Bota Coturno,Calçados,Ana Souza,5,289.9,1449.5,0,4,18000
+2025-02-26,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,32,8,20000
+2025-02-26,Meia Kit c/3,Vestuário,Carlos Lima,3,29.9,89.7,93,25,15000
+2025-02-26,Mochila Executiva,Acessórios,Ana Souza,6,159.9,959.4,28,7,18000
+2025-02-26,Óculos de Sol,Acessórios,Carlos Lima,6,119.9,719.4,34,9,15000
+2025-02-26,Camiseta Basic,Vestuário,Carlos Lima,2,39.9,79.8,67,15,15000
+2025-02-26,Sandália Casual,Calçados,Carlos Lima,6,89.9,539.4,38,10,15000
+2025-02-27,Calça Jeans,Vestuário,Carlos Lima,6,129.9,779.4,31,8,15000
+2025-02-27,Calça Jeans,Vestuário,Beatriz Rocha,1,129.9,129.9,30,8,20000
+2025-02-27,Camiseta Basic,Vestuário,Diego Alves,1,39.9,39.9,67,15,12000
+2025-02-27,Óculos de Sol,Acessórios,Ana Souza,5,119.9,599.5,34,9,18000
+2025-02-27,Sandália Casual,Calçados,Beatriz Rocha,6,89.9,539.4,38,10,20000
+2025-02-27,Boné Aba Reta,Acessórios,Beatriz Rocha,6,49.9,299.4,80,20,20000
+2025-02-27,Óculos de Sol,Acessórios,Beatriz Rocha,1,119.9,119.9,34,9,20000
+2025-02-27,Bota Coturno,Calçados,Carlos Lima,2,289.9,579.8,0,4,15000
+2025-02-28,Sandália Casual,Calçados,Beatriz Rocha,5,89.9,449.5,37,10,20000
+2025-02-28,Camiseta Basic,Vestuário,Beatriz Rocha,5,39.9,199.5,67,15,20000
+2025-02-28,Camiseta Basic,Vestuário,Carlos Lima,1,39.9,39.9,66,15,15000
+2025-02-28,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,79,20,18000
+2025-02-28,Jaqueta Corta-Vento,Vestuário,Carlos Lima,6,199.9,1199.4,0,5,15000
+2025-02-28,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,93,25,20000
+2025-02-28,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,1,199.9,199.9,0,5,20000
+2025-02-28,Jaqueta Corta-Vento,Vestuário,Carlos Lima,1,199.9,199.9,0,5,15000
+2025-03-01,Óculos de Sol,Acessórios,Carlos Lima,5,119.9,599.5,40,9,15000
+2025-03-01,Meia Kit c/3,Vestuário,Diego Alves,4,29.9,119.6,100,25,12000
+2025-03-01,Jaqueta Corta-Vento,Vestuário,Carlos Lima,4,199.9,799.6,0,5,15000
+2025-03-02,Óculos de Sol,Acessórios,Diego Alves,4,119.9,479.6,40,9,12000
+2025-03-02,Bota Coturno,Calçados,Ana Souza,4,289.9,1159.6,0,4,18000
+2025-03-02,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,34,7,15000
+2025-03-02,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,100,25,20000
+2025-03-02,Boné Aba Reta,Acessórios,Beatriz Rocha,1,49.9,49.9,89,20,20000
+2025-03-02,Sandália Casual,Calçados,Beatriz Rocha,1,89.9,89.9,45,10,20000
+2025-03-02,Bota Coturno,Calçados,Diego Alves,1,289.9,289.9,0,4,12000
+2025-03-02,Sandália Casual,Calçados,Ana Souza,3,89.9,269.7,44,10,18000
+2025-03-03,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,40,9,15000
+2025-03-03,Sandália Casual,Calçados,Ana Souza,1,89.9,89.9,44,10,18000
+2025-03-03,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,79,15,15000
+2025-03-03,Calça Jeans,Vestuário,Beatriz Rocha,5,129.9,649.5,39,8,20000
+2025-03-03,Boné Aba Reta,Acessórios,Beatriz Rocha,1,49.9,49.9,88,20,20000
+2025-03-04,Óculos de Sol,Acessórios,Carlos Lima,1,119.9,119.9,40,9,15000
+2025-03-04,Tênis Urbano,Calçados,Carlos Lima,3,249.9,749.7,30,6,15000
+2025-03-04,Camiseta Basic,Vestuário,Carlos Lima,5,39.9,199.5,78,15,15000
+2025-03-04,Calça Jeans,Vestuário,Diego Alves,4,129.9,519.6,39,8,12000
+2025-03-05,Bota Coturno,Calçados,Beatriz Rocha,4,289.9,1159.6,0,4,20000
+2025-03-05,Mochila Executiva,Acessórios,Carlos Lima,5,159.9,799.5,33,7,15000
+2025-03-05,Óculos de Sol,Acessórios,Ana Souza,1,119.9,119.9,39,9,18000
+2025-03-05,Sandália Casual,Calçados,Diego Alves,4,89.9,359.6,44,10,12000
+2025-03-05,Bota Coturno,Calçados,Ana Souza,1,289.9,289.9,0,4,18000
+2025-03-06,Tênis Urbano,Calçados,Beatriz Rocha,3,249.9,749.7,30,6,20000
+2025-03-06,Calça Jeans,Vestuário,Beatriz Rocha,5,129.9,649.5,39,8,20000
+2025-03-06,Meia Kit c/3,Vestuário,Ana Souza,3,29.9,89.7,100,25,18000
+2025-03-06,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,78,15,18000
+2025-03-06,Tênis Urbano,Calçados,Diego Alves,3,249.9,749.7,30,6,12000
+2025-03-07,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,43,10,15000
+2025-03-07,Mochila Executiva,Acessórios,Ana Souza,2,159.9,319.8,32,7,18000
+2025-03-07,Meia Kit c/3,Vestuário,Beatriz Rocha,5,29.9,149.5,100,25,20000
+2025-03-07,Sandália Casual,Calçados,Diego Alves,1,89.9,89.9,43,10,12000
+2025-03-07,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,42,10,15000
+2025-03-07,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,100,25,20000
+2025-03-07,Sandália Casual,Calçados,Diego Alves,5,89.9,449.5,41,10,12000
+2025-03-08,Meia Kit c/3,Vestuário,Diego Alves,5,29.9,149.5,99,25,12000
+2025-03-08,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,38,9,15000
+2025-03-08,Tênis Urbano,Calçados,Carlos Lima,1,249.9,249.9,29,6,15000
+2025-03-08,Jaqueta Corta-Vento,Vestuário,Diego Alves,1,199.9,199.9,0,5,12000
+2025-03-08,Bota Coturno,Calçados,Diego Alves,2,289.9,579.8,0,4,12000
+2025-03-08,Meia Kit c/3,Vestuário,Ana Souza,1,29.9,29.9,99,25,18000
+2025-03-08,Boné Aba Reta,Acessórios,Beatriz Rocha,5,49.9,249.5,87,20,20000
+2025-03-09,Tênis Urbano,Calçados,Ana Souza,3,249.9,749.7,29,6,18000
+2025-03-09,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,39,8,18000
+2025-03-09,Calça Jeans,Vestuário,Carlos Lima,2,129.9,259.8,39,8,15000
+2025-03-09,Óculos de Sol,Acessórios,Ana Souza,4,119.9,479.6,37,9,18000
+2025-03-09,Meia Kit c/3,Vestuário,Beatriz Rocha,4,29.9,119.6,98,25,20000
+2025-03-09,Boné Aba Reta,Acessórios,Diego Alves,4,49.9,199.6,87,20,12000
+2025-03-09,Óculos de Sol,Acessórios,Beatriz Rocha,4,119.9,479.6,37,9,20000
+2025-03-10,Óculos de Sol,Acessórios,Ana Souza,4,119.9,479.6,37,9,18000
+2025-03-10,Óculos de Sol,Acessórios,Diego Alves,3,119.9,359.7,37,9,12000
+2025-03-10,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,77,15,15000
+2025-03-10,Óculos de Sol,Acessórios,Diego Alves,1,119.9,119.9,36,9,12000
+2025-03-10,Bota Coturno,Calçados,Diego Alves,3,289.9,869.7,0,4,12000
+2025-03-10,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,32,7,15000
+2025-03-11,Mochila Executiva,Acessórios,Beatriz Rocha,2,159.9,319.8,31,7,20000
+2025-03-11,Bota Coturno,Calçados,Ana Souza,4,289.9,1159.6,0,4,18000
+2025-03-11,Jaqueta Corta-Vento,Vestuário,Ana Souza,3,199.9,599.7,0,5,18000
+2025-03-11,Sandália Casual,Calçados,Diego Alves,1,89.9,89.9,40,10,12000
+2025-03-11,Jaqueta Corta-Vento,Vestuário,Diego Alves,2,199.9,399.8,0,5,12000
+2025-03-12,Calça Jeans,Vestuário,Ana Souza,3,129.9,389.7,38,8,18000
+2025-03-12,Bota Coturno,Calçados,Beatriz Rocha,3,289.9,869.7,0,4,20000
+2025-03-12,Tênis Urbano,Calçados,Beatriz Rocha,2,249.9,499.8,29,6,20000
+2025-03-12,Óculos de Sol,Acessórios,Ana Souza,2,119.9,239.8,36,9,18000
+2025-03-12,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,40,10,15000
+2025-03-12,Tênis Urbano,Calçados,Carlos Lima,5,249.9,1249.5,28,6,15000
+2025-03-13,Óculos de Sol,Acessórios,Carlos Lima,5,119.9,599.5,36,9,15000
+2025-03-13,Bota Coturno,Calçados,Carlos Lima,2,289.9,579.8,0,4,15000
+2025-03-13,Bota Coturno,Calçados,Ana Souza,1,289.9,289.9,0,4,18000
+2025-03-14,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,37,8,15000
+2025-03-14,Jaqueta Corta-Vento,Vestuário,Diego Alves,2,199.9,399.8,0,5,12000
+2025-03-14,Óculos de Sol,Acessórios,Ana Souza,3,119.9,359.7,36,9,18000
+2025-03-14,Camiseta Basic,Vestuário,Beatriz Rocha,3,39.9,119.7,77,15,20000
+2025-03-15,Tênis Urbano,Calçados,Carlos Lima,1,249.9,249.9,28,6,15000
+2025-03-15,Meia Kit c/3,Vestuário,Carlos Lima,1,29.9,29.9,97,25,15000
+2025-03-15,Mochila Executiva,Acessórios,Diego Alves,3,159.9,479.7,30,7,12000
+2025-03-15,Tênis Urbano,Calçados,Ana Souza,1,249.9,249.9,27,6,18000
+2025-03-16,Boné Aba Reta,Acessórios,Carlos Lima,4,49.9,199.6,87,20,15000
+2025-03-16,Boné Aba Reta,Acessórios,Carlos Lima,4,49.9,199.6,86,20,15000
+2025-03-16,Meia Kit c/3,Vestuário,Beatriz Rocha,4,29.9,119.6,97,25,20000
+2025-03-16,Meia Kit c/3,Vestuário,Ana Souza,5,29.9,149.5,97,25,18000
+2025-03-16,Jaqueta Corta-Vento,Vestuário,Ana Souza,1,199.9,199.9,0,5,18000
+2025-03-16,Camiseta Basic,Vestuário,Beatriz Rocha,3,39.9,119.7,77,15,20000
+2025-03-16,Óculos de Sol,Acessórios,Beatriz Rocha,3,119.9,359.7,36,9,20000
+2025-03-16,Boné Aba Reta,Acessórios,Diego Alves,4,49.9,199.6,85,20,12000
+2025-03-17,Calça Jeans,Vestuário,Ana Souza,3,129.9,389.7,36,8,18000
+2025-03-17,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,35,8,18000
+2025-03-17,Bota Coturno,Calçados,Diego Alves,4,289.9,1159.6,0,4,12000
+2025-03-17,Jaqueta Corta-Vento,Vestuário,Diego Alves,3,199.9,599.7,0,5,12000
+2025-03-17,Jaqueta Corta-Vento,Vestuário,Carlos Lima,4,199.9,799.6,0,5,15000
+2025-03-17,Sandália Casual,Calçados,Diego Alves,2,89.9,179.8,40,10,12000
+2025-03-17,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,76,15,15000
+2025-03-17,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,35,8,20000
+2025-03-18,Boné Aba Reta,Acessórios,Beatriz Rocha,4,49.9,199.6,85,20,20000
+2025-03-18,Mochila Executiva,Acessórios,Beatriz Rocha,3,159.9,479.7,30,7,20000
+2025-03-18,Camiseta Basic,Vestuário,Diego Alves,4,39.9,159.6,75,15,12000
+2025-03-18,Mochila Executiva,Acessórios,Ana Souza,1,159.9,159.9,30,7,18000
+2025-03-18,Camiseta Basic,Vestuário,Ana Souza,1,39.9,39.9,75,15,18000
+2025-03-19,Camiseta Basic,Vestuário,Beatriz Rocha,4,39.9,159.6,74,15,20000
+2025-03-19,Boné Aba Reta,Acessórios,Beatriz Rocha,3,49.9,149.7,85,20,20000
+2025-03-19,Mochila Executiva,Acessórios,Carlos Lima,4,159.9,639.6,30,7,15000
+2025-03-19,Calça Jeans,Vestuário,Diego Alves,2,129.9,259.8,35,8,12000
+2025-03-20,Camiseta Basic,Vestuário,Carlos Lima,1,39.9,39.9,74,15,15000
+2025-03-20,Bota Coturno,Calçados,Beatriz Rocha,3,289.9,869.7,0,4,20000
+2025-03-20,Tênis Urbano,Calçados,Carlos Lima,5,249.9,1249.5,26,6,15000
+2025-03-20,Meia Kit c/3,Vestuário,Carlos Lima,5,29.9,149.5,97,25,15000
+2025-03-20,Óculos de Sol,Acessórios,Beatriz Rocha,2,119.9,239.8,35,9,20000
+2025-03-20,Meia Kit c/3,Vestuário,Ana Souza,2,29.9,59.8,96,25,18000
+2025-03-20,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,35,8,20000
+2025-03-21,Calça Jeans,Vestuário,Ana Souza,1,129.9,129.9,34,8,18000
+2025-03-21,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,34,8,20000
+2025-03-21,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,95,25,20000
+2025-03-21,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,4,199.9,799.6,0,5,20000
+2025-03-21,Sandália Casual,Calçados,Ana Souza,1,89.9,89.9,39,10,18000
+2025-03-21,Mochila Executiva,Acessórios,Beatriz Rocha,1,159.9,159.9,30,7,20000
+2025-03-21,Sandália Casual,Calçados,Beatriz Rocha,3,89.9,269.7,38,10,20000
+2025-03-21,Tênis Urbano,Calçados,Carlos Lima,3,249.9,749.7,25,6,15000
+2025-03-22,Calça Jeans,Vestuário,Diego Alves,4,129.9,519.6,34,8,12000
+2025-03-22,Sandália Casual,Calçados,Carlos Lima,1,89.9,89.9,38,10,15000
+2025-03-22,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,95,25,20000
+2025-03-22,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,33,8,18000
+2025-03-23,Sandália Casual,Calçados,Diego Alves,4,89.9,359.6,38,10,12000
+2025-03-23,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,35,9,15000
+2025-03-23,Boné Aba Reta,Acessórios,Carlos Lima,2,49.9,99.8,85,20,15000
+2025-03-23,Sandália Casual,Calçados,Ana Souza,3,89.9,269.7,38,10,18000
+2025-03-23,Camiseta Basic,Vestuário,Diego Alves,5,39.9,199.5,74,15,12000
+2025-03-23,Boné Aba Reta,Acessórios,Diego Alves,2,49.9,99.8,85,20,12000
+2025-03-23,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,25,6,12000
+2025-03-23,Tênis Urbano,Calçados,Carlos Lima,4,249.9,999.6,25,6,15000
+2025-03-24,Mochila Executiva,Acessórios,Beatriz Rocha,4,159.9,639.6,29,7,20000
+2025-03-24,Meia Kit c/3,Vestuário,Carlos Lima,5,29.9,149.5,95,25,15000
+2025-03-24,Mochila Executiva,Acessórios,Ana Souza,5,159.9,799.5,29,7,18000
+2025-03-24,Tênis Urbano,Calçados,Carlos Lima,2,249.9,499.8,24,6,15000
+2025-03-24,Mochila Executiva,Acessórios,Ana Souza,4,159.9,639.6,29,7,18000
+2025-03-24,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,5,199.9,999.5,0,5,20000
+2025-03-24,Boné Aba Reta,Acessórios,Diego Alves,2,49.9,99.8,85,20,12000
+2025-03-25,Mochila Executiva,Acessórios,Ana Souza,1,159.9,159.9,29,7,18000
+2025-03-25,Óculos de Sol,Acessórios,Carlos Lima,6,119.9,719.4,34,9,15000
+2025-03-25,Calça Jeans,Vestuário,Ana Souza,1,129.9,129.9,33,8,18000
+2025-03-25,Meia Kit c/3,Vestuário,Carlos Lima,1,29.9,29.9,95,25,15000
+2025-03-25,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,0,4,20000
+2025-03-26,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,28,7,15000
+2025-03-26,Tênis Urbano,Calçados,Diego Alves,1,249.9,249.9,23,6,12000
+2025-03-26,Óculos de Sol,Acessórios,Carlos Lima,6,119.9,719.4,33,9,15000
+2025-03-26,Jaqueta Corta-Vento,Vestuário,Ana Souza,2,199.9,399.8,0,5,18000
+2025-03-26,Camiseta Basic,Vestuário,Carlos Lima,2,39.9,79.8,73,15,15000
+2025-03-27,Tênis Urbano,Calçados,Diego Alves,2,249.9,499.8,22,6,12000
+2025-03-27,Sandália Casual,Calçados,Beatriz Rocha,1,89.9,89.9,37,10,20000
+2025-03-27,Meia Kit c/3,Vestuário,Ana Souza,6,29.9,179.4,95,25,18000
+2025-03-27,Calça Jeans,Vestuário,Beatriz Rocha,1,129.9,129.9,32,8,20000
+2025-03-27,Boné Aba Reta,Acessórios,Carlos Lima,3,49.9,149.7,85,20,15000
+2025-03-27,Meia Kit c/3,Vestuário,Carlos Lima,6,29.9,179.4,95,25,15000
+2025-03-27,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,27,7,15000
+2025-03-28,Tênis Urbano,Calçados,Diego Alves,6,249.9,1499.4,22,6,12000
+2025-03-28,Mochila Executiva,Acessórios,Beatriz Rocha,3,159.9,479.7,27,7,20000
+2025-03-28,Boné Aba Reta,Acessórios,Diego Alves,5,49.9,249.5,84,20,12000
+2025-03-28,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,27,7,15000
+2025-03-28,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,72,15,12000
+2025-03-28,Mochila Executiva,Acessórios,Diego Alves,1,159.9,159.9,27,7,12000
+2025-03-28,Meia Kit c/3,Vestuário,Ana Souza,5,29.9,149.5,94,25,18000
+2025-03-28,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,84,20,18000
+2025-03-29,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,37,10,15000
+2025-03-29,Meia Kit c/3,Vestuário,Carlos Lima,6,29.9,179.4,94,25,15000
+2025-03-29,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,0,4,20000
+2025-03-29,Mochila Executiva,Acessórios,Beatriz Rocha,5,159.9,799.5,27,7,20000
+2025-03-30,Calça Jeans,Vestuário,Diego Alves,1,129.9,129.9,31,8,12000
+2025-03-30,Bota Coturno,Calçados,Carlos Lima,6,289.9,1739.4,0,4,15000
+2025-03-30,Bota Coturno,Calçados,Beatriz Rocha,3,289.9,869.7,0,4,20000
+2025-03-30,Óculos de Sol,Acessórios,Diego Alves,1,119.9,119.9,32,9,12000
+2025-03-30,Camiseta Basic,Vestuário,Ana Souza,2,39.9,79.8,71,15,18000
+2025-03-31,Mochila Executiva,Acessórios,Diego Alves,1,159.9,159.9,26,7,12000
+2025-03-31,Óculos de Sol,Acessórios,Carlos Lima,1,119.9,119.9,31,9,15000
+2025-03-31,Jaqueta Corta-Vento,Vestuário,Carlos Lima,5,199.9,999.5,0,5,15000
+2025-03-31,Boné Aba Reta,Acessórios,Carlos Lima,2,49.9,99.8,83,20,15000
+2025-03-31,Meia Kit c/3,Vestuário,Ana Souza,1,29.9,29.9,94,25,18000
+2025-03-31,Bota Coturno,Calçados,Beatriz Rocha,3,289.9,869.7,0,4,20000
+2025-03-31,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,1,199.9,199.9,0,5,20000
+2025-04-01,Sandália Casual,Calçados,Diego Alves,1,89.9,89.9,45,10,12000
+2025-04-01,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,35,7,15000
+2025-04-01,Calça Jeans,Vestuário,Diego Alves,4,129.9,519.6,39,8,12000
+2025-04-01,Calça Jeans,Vestuário,Diego Alves,2,129.9,259.8,38,8,12000
+2025-04-01,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,100,25,20000
+2025-04-01,Calça Jeans,Vestuário,Ana Souza,3,129.9,389.7,37,8,18000
+2025-04-02,Jaqueta Corta-Vento,Vestuário,Diego Alves,2,199.9,399.8,0,5,12000
+2025-04-02,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,39,9,15000
+2025-04-02,Mochila Executiva,Acessórios,Diego Alves,2,159.9,319.8,34,7,12000
+2025-04-03,Camiseta Basic,Vestuário,Carlos Lima,2,39.9,79.8,80,15,15000
+2025-04-03,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,2,199.9,399.8,0,5,20000
+2025-04-03,Bota Coturno,Calçados,Diego Alves,2,289.9,579.8,0,4,12000
+2025-04-03,Óculos de Sol,Acessórios,Carlos Lima,1,119.9,119.9,39,9,15000
+2025-04-03,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,29,6,12000
+2025-04-04,Calça Jeans,Vestuário,Ana Souza,3,129.9,389.7,37,8,18000
+2025-04-04,Bota Coturno,Calçados,Carlos Lima,1,289.9,289.9,0,4,15000
+2025-04-04,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,39,9,15000
+2025-04-04,Mochila Executiva,Acessórios,Ana Souza,1,159.9,159.9,34,7,18000
+2025-04-05,Sandália Casual,Calçados,Beatriz Rocha,5,89.9,449.5,44,10,20000
+2025-04-05,Calça Jeans,Vestuário,Ana Souza,4,129.9,519.6,36,8,18000
+2025-04-05,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,36,8,18000
+2025-04-05,Boné Aba Reta,Acessórios,Ana Souza,3,49.9,149.7,89,20,18000
+2025-04-06,Óculos de Sol,Acessórios,Beatriz Rocha,5,119.9,599.5,38,9,20000
+2025-04-06,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,99,25,20000
+2025-04-06,Sandália Casual,Calçados,Diego Alves,1,89.9,89.9,44,10,12000
+2025-04-07,Bota Coturno,Calçados,Beatriz Rocha,4,289.9,1159.6,0,4,20000
+2025-04-07,Tênis Urbano,Calçados,Ana Souza,5,249.9,1249.5,29,6,18000
+2025-04-07,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,28,6,12000
+2025-04-07,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,79,15,12000
+2025-04-07,Mochila Executiva,Acessórios,Beatriz Rocha,4,159.9,639.6,34,7,20000
+2025-04-07,Tênis Urbano,Calçados,Beatriz Rocha,3,249.9,749.7,27,6,20000
+2025-04-07,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,5,199.9,999.5,0,5,20000
+2025-04-07,Meia Kit c/3,Vestuário,Carlos Lima,1,29.9,29.9,98,25,15000
+2025-04-08,Boné Aba Reta,Acessórios,Ana Souza,2,49.9,99.8,88,20,18000
+2025-04-08,Tênis Urbano,Calçados,Diego Alves,4,249.9,999.6,26,6,12000
+2025-04-08,Camiseta Basic,Vestuário,Diego Alves,1,39.9,39.9,79,15,12000
+2025-04-08,Sandália Casual,Calçados,Diego Alves,3,89.9,269.7,43,10,12000
+2025-04-08,Sandália Casual,Calçados,Ana Souza,4,89.9,359.6,42,10,18000
+2025-04-08,Óculos de Sol,Acessórios,Diego Alves,5,119.9,599.5,38,9,12000
+2025-04-08,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,35,8,20000
+2025-04-09,Boné Aba Reta,Acessórios,Beatriz Rocha,3,49.9,149.7,87,20,20000
+2025-04-09,Sandália Casual,Calçados,Diego Alves,5,89.9,449.5,42,10,12000
+2025-04-09,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,35,8,15000
+2025-04-09,Óculos de Sol,Acessórios,Carlos Lima,1,119.9,119.9,37,9,15000
+2025-04-09,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,98,25,20000
+2025-04-09,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,25,6,12000
+2025-04-10,Mochila Executiva,Acessórios,Carlos Lima,5,159.9,799.5,34,7,15000
+2025-04-10,Sandália Casual,Calçados,Diego Alves,5,89.9,449.5,41,10,12000
+2025-04-10,Sandália Casual,Calçados,Diego Alves,4,89.9,359.6,40,10,12000
+2025-04-10,Óculos de Sol,Acessórios,Beatriz Rocha,4,119.9,479.6,37,9,20000
+2025-04-10,Mochila Executiva,Acessórios,Diego Alves,2,159.9,319.8,34,7,12000
+2025-04-10,Jaqueta Corta-Vento,Vestuário,Carlos Lima,3,199.9,599.7,0,5,15000
+2025-04-10,Calça Jeans,Vestuário,Carlos Lima,5,129.9,649.5,34,8,15000
+2025-04-11,Bota Coturno,Calçados,Ana Souza,3,289.9,869.7,0,4,18000
+2025-04-11,Camiseta Basic,Vestuário,Carlos Lima,5,39.9,199.5,79,15,15000
+2025-04-11,Calça Jeans,Vestuário,Diego Alves,2,129.9,259.8,34,8,12000
+2025-04-11,Tênis Urbano,Calçados,Carlos Lima,1,249.9,249.9,24,6,15000
+2025-04-12,Meia Kit c/3,Vestuário,Ana Souza,2,29.9,59.8,97,25,18000
+2025-04-12,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,36,9,15000
+2025-04-12,Jaqueta Corta-Vento,Vestuário,Ana Souza,1,199.9,199.9,0,5,18000
+2025-04-12,Camiseta Basic,Vestuário,Ana Souza,2,39.9,79.8,78,15,18000
+2025-04-12,Mochila Executiva,Acessórios,Carlos Lima,1,159.9,159.9,33,7,15000
+2025-04-12,Calça Jeans,Vestuário,Diego Alves,4,129.9,519.6,33,8,12000
+2025-04-12,Sandália Casual,Calçados,Diego Alves,4,89.9,359.6,39,10,12000
+2025-04-12,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,23,6,20000
+2025-04-13,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,36,9,15000
+2025-04-13,Bota Coturno,Calçados,Diego Alves,3,289.9,869.7,0,4,12000
+2025-04-13,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,33,8,20000
+2025-04-14,Sandália Casual,Calçados,Carlos Lima,5,89.9,449.5,38,10,15000
+2025-04-14,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,36,9,15000
+2025-04-14,Calça Jeans,Vestuário,Carlos Lima,4,129.9,519.6,32,8,15000
+2025-04-14,Calça Jeans,Vestuário,Ana Souza,4,129.9,519.6,31,8,18000
+2025-04-14,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,33,7,18000
+2025-04-15,Sandália Casual,Calçados,Carlos Lima,5,89.9,449.5,38,10,15000
+2025-04-15,Jaqueta Corta-Vento,Vestuário,Ana Souza,4,199.9,799.6,0,5,18000
+2025-04-15,Boné Aba Reta,Acessórios,Carlos Lima,5,49.9,249.5,87,20,15000
+2025-04-15,Meia Kit c/3,Vestuário,Carlos Lima,1,29.9,29.9,97,25,15000
+2025-04-15,Sandália Casual,Calçados,Carlos Lima,4,89.9,359.6,37,10,15000
+2025-04-15,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,32,7,15000
+2025-04-15,Tênis Urbano,Calçados,Ana Souza,1,249.9,249.9,23,6,18000
+2025-04-15,Bota Coturno,Calçados,Beatriz Rocha,5,289.9,1449.5,0,4,20000
+2025-04-16,Jaqueta Corta-Vento,Vestuário,Carlos Lima,1,199.9,199.9,0,5,15000
+2025-04-16,Bota Coturno,Calçados,Diego Alves,1,289.9,289.9,0,4,12000
+2025-04-16,Camiseta Basic,Vestuário,Diego Alves,4,39.9,159.6,77,15,12000
+2025-04-16,Jaqueta Corta-Vento,Vestuário,Diego Alves,1,199.9,199.9,0,5,12000
+2025-04-16,Óculos de Sol,Acessórios,Diego Alves,1,119.9,119.9,35,9,12000
+2025-04-16,Jaqueta Corta-Vento,Vestuário,Ana Souza,4,199.9,799.6,0,5,18000
+2025-04-17,Camiseta Basic,Vestuário,Diego Alves,2,39.9,79.8,77,15,12000
+2025-04-17,Mochila Executiva,Acessórios,Beatriz Rocha,4,159.9,639.6,31,7,20000
+2025-04-17,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,76,15,12000
+2025-04-17,Sandália Casual,Calçados,Carlos Lima,5,89.9,449.5,37,10,15000
+2025-04-18,Jaqueta Corta-Vento,Vestuário,Diego Alves,3,199.9,599.7,0,5,12000
+2025-04-18,Óculos de Sol,Acessórios,Diego Alves,2,119.9,239.8,34,9,12000
+2025-04-18,Sandália Casual,Calçados,Ana Souza,2,89.9,179.8,37,10,18000
+2025-04-18,Tênis Urbano,Calçados,Ana Souza,1,249.9,249.9,23,6,18000
+2025-04-18,Bota Coturno,Calçados,Ana Souza,5,289.9,1449.5,0,4,18000
+2025-04-19,Calça Jeans,Vestuário,Diego Alves,4,129.9,519.6,31,8,12000
+2025-04-19,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,86,20,18000
+2025-04-19,Mochila Executiva,Acessórios,Diego Alves,4,159.9,639.6,30,7,12000
+2025-04-19,Mochila Executiva,Acessórios,Diego Alves,1,159.9,159.9,29,7,12000
+2025-04-19,Mochila Executiva,Acessórios,Carlos Lima,1,159.9,159.9,28,7,15000
+2025-04-19,Mochila Executiva,Acessórios,Beatriz Rocha,2,159.9,319.8,27,7,20000
+2025-04-19,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,31,8,18000
+2025-04-20,Bota Coturno,Calçados,Carlos Lima,1,289.9,289.9,0,4,15000
+2025-04-20,Bota Coturno,Calçados,Carlos Lima,1,289.9,289.9,0,4,15000
+2025-04-20,Tênis Urbano,Calçados,Carlos Lima,3,249.9,749.7,22,6,15000
+2025-04-20,Mochila Executiva,Acessórios,Beatriz Rocha,2,159.9,319.8,26,7,20000
+2025-04-21,Boné Aba Reta,Acessórios,Diego Alves,1,49.9,49.9,86,20,12000
+2025-04-21,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,31,8,15000
+2025-04-21,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,31,8,15000
+2025-04-21,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,31,8,18000
+2025-04-22,Meia Kit c/3,Vestuário,Diego Alves,5,29.9,149.5,97,25,12000
+2025-04-22,Tênis Urbano,Calçados,Ana Souza,5,249.9,1249.5,21,6,18000
+2025-04-22,Boné Aba Reta,Acessórios,Diego Alves,2,49.9,99.8,85,20,12000
+2025-04-22,Camiseta Basic,Vestuário,Ana Souza,4,39.9,159.6,75,15,18000
+2025-04-22,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,85,20,18000
+2025-04-23,Óculos de Sol,Acessórios,Carlos Lima,3,119.9,359.7,34,9,15000
+2025-04-23,Tênis Urbano,Calçados,Carlos Lima,2,249.9,499.8,20,6,15000
+2025-04-23,Sandália Casual,Calçados,Ana Souza,2,89.9,179.8,37,10,18000
+2025-04-24,Jaqueta Corta-Vento,Vestuário,Ana Souza,2,199.9,399.8,0,5,18000
+2025-04-24,Bota Coturno,Calçados,Ana Souza,3,289.9,869.7,0,4,18000
+2025-04-24,Jaqueta Corta-Vento,Vestuário,Ana Souza,5,199.9,999.5,0,5,18000
+2025-04-24,Meia Kit c/3,Vestuário,Beatriz Rocha,5,29.9,149.5,96,25,20000
+2025-04-24,Bota Coturno,Calçados,Diego Alves,1,289.9,289.9,0,4,12000
+2025-04-24,Tênis Urbano,Calçados,Ana Souza,3,249.9,749.7,20,6,18000
+2025-04-25,Camiseta Basic,Vestuário,Ana Souza,2,39.9,79.8,74,15,18000
+2025-04-25,Jaqueta Corta-Vento,Vestuário,Diego Alves,3,199.9,599.7,0,5,12000
+2025-04-25,Camiseta Basic,Vestuário,Diego Alves,2,39.9,79.8,73,15,12000
+2025-04-25,Camiseta Basic,Vestuário,Beatriz Rocha,5,39.9,199.5,72,15,20000
+2025-04-25,Jaqueta Corta-Vento,Vestuário,Carlos Lima,6,199.9,1199.4,0,5,15000
+2025-04-26,Bota Coturno,Calçados,Ana Souza,1,289.9,289.9,0,4,18000
+2025-04-26,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,6,199.9,1199.4,0,5,20000
+2025-04-26,Óculos de Sol,Acessórios,Beatriz Rocha,6,119.9,719.4,34,9,20000
+2025-04-26,Meia Kit c/3,Vestuário,Diego Alves,5,29.9,149.5,95,25,12000
+2025-04-27,Meia Kit c/3,Vestuário,Carlos Lima,5,29.9,149.5,95,25,15000
+2025-04-27,Boné Aba Reta,Acessórios,Beatriz Rocha,1,49.9,49.9,85,20,20000
+2025-04-27,Camiseta Basic,Vestuário,Beatriz Rocha,3,39.9,119.7,71,15,20000
+2025-04-27,Tênis Urbano,Calçados,Beatriz Rocha,6,249.9,1499.4,20,6,20000
+2025-04-27,Sandália Casual,Calçados,Beatriz Rocha,3,89.9,269.7,37,10,20000
+2025-04-27,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,26,7,15000
+2025-04-28,Boné Aba Reta,Acessórios,Diego Alves,6,49.9,299.4,85,20,12000
+2025-04-28,Óculos de Sol,Acessórios,Carlos Lima,1,119.9,119.9,33,9,15000
+2025-04-28,Tênis Urbano,Calçados,Carlos Lima,3,249.9,749.7,20,6,15000
+2025-04-28,Óculos de Sol,Acessórios,Beatriz Rocha,3,119.9,359.7,32,9,20000
+2025-04-28,Calça Jeans,Vestuário,Diego Alves,5,129.9,649.5,31,8,12000
+2025-04-28,Bota Coturno,Calçados,Ana Souza,6,289.9,1739.4,0,4,18000
+2025-04-28,Bota Coturno,Calçados,Diego Alves,1,289.9,289.9,0,4,12000
+2025-04-29,Meia Kit c/3,Vestuário,Diego Alves,1,29.9,29.9,94,25,12000
+2025-04-29,Tênis Urbano,Calçados,Beatriz Rocha,6,249.9,1499.4,19,6,20000
+2025-04-29,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,36,10,15000
+2025-04-29,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,3,199.9,599.7,0,5,20000
+2025-04-30,Tênis Urbano,Calçados,Ana Souza,5,249.9,1249.5,19,6,18000
+2025-04-30,Bota Coturno,Calçados,Carlos Lima,3,289.9,869.7,0,4,15000
+2025-04-30,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,93,25,20000
+2025-04-30,Boné Aba Reta,Acessórios,Ana Souza,5,49.9,249.5,84,20,18000
+2025-05-01,Bota Coturno,Calçados,Ana Souza,1,289.9,289.9,0,4,18000
+2025-05-01,Tênis Urbano,Calçados,Ana Souza,4,249.9,999.6,30,6,18000
+2025-05-01,Sandália Casual,Calçados,Carlos Lima,1,89.9,89.9,44,10,15000
+2025-05-01,Meia Kit c/3,Vestuário,Ana Souza,5,29.9,149.5,100,25,18000
+2025-05-01,Tênis Urbano,Calçados,Carlos Lima,5,249.9,1249.5,30,6,15000
+2025-05-02,Tênis Urbano,Calçados,Carlos Lima,4,249.9,999.6,30,6,15000
+2025-05-02,Meia Kit c/3,Vestuário,Carlos Lima,2,29.9,59.8,100,25,15000
+2025-05-02,Bota Coturno,Calçados,Carlos Lima,1,289.9,289.9,0,4,15000
+2025-05-02,Mochila Executiva,Acessórios,Ana Souza,2,159.9,319.8,35,7,18000
+2025-05-02,Boné Aba Reta,Acessórios,Carlos Lima,2,49.9,99.8,90,20,15000
+2025-05-02,Camiseta Basic,Vestuário,Carlos Lima,2,39.9,79.8,80,15,15000
+2025-05-02,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,4,199.9,799.6,0,5,20000
+2025-05-03,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,39,8,20000
+2025-05-03,Camiseta Basic,Vestuário,Diego Alves,5,39.9,199.5,79,15,12000
+2025-05-03,Camiseta Basic,Vestuário,Beatriz Rocha,2,39.9,79.8,79,15,20000
+2025-05-03,Calça Jeans,Vestuário,Diego Alves,1,129.9,129.9,39,8,12000
+2025-05-03,Boné Aba Reta,Acessórios,Carlos Lima,5,49.9,249.5,89,20,15000
+2025-05-04,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,29,6,12000
+2025-05-04,Sandália Casual,Calçados,Diego Alves,1,89.9,89.9,43,10,12000
+2025-05-04,Sandália Casual,Calçados,Carlos Lima,3,89.9,269.7,42,10,15000
+2025-05-04,Meia Kit c/3,Vestuário,Carlos Lima,4,29.9,119.6,100,25,15000
+2025-05-04,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,39,8,20000
+2025-05-04,Mochila Executiva,Acessórios,Ana Souza,4,159.9,639.6,35,7,18000
+2025-05-05,Calça Jeans,Vestuário,Carlos Lima,3,129.9,389.7,39,8,15000
+2025-05-05,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,79,15,12000
+2025-05-05,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,39,8,20000
+2025-05-05,Bota Coturno,Calçados,Ana Souza,1,289.9,289.9,0,4,18000
+2025-05-06,Jaqueta Corta-Vento,Vestuário,Diego Alves,4,199.9,799.6,0,5,12000
+2025-05-06,Camiseta Basic,Vestuário,Beatriz Rocha,5,39.9,199.5,78,15,20000
+2025-05-06,Camiseta Basic,Vestuário,Beatriz Rocha,3,39.9,119.7,78,15,20000
+2025-05-06,Óculos de Sol,Acessórios,Beatriz Rocha,1,119.9,119.9,39,9,20000
+2025-05-07,Boné Aba Reta,Acessórios,Ana Souza,4,49.9,199.6,89,20,18000
+2025-05-07,Bota Coturno,Calçados,Carlos Lima,1,289.9,289.9,0,4,15000
+2025-05-07,Tênis Urbano,Calçados,Diego Alves,1,249.9,249.9,28,6,12000
+2025-05-07,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,34,7,15000
+2025-05-07,Meia Kit c/3,Vestuário,Beatriz Rocha,4,29.9,119.6,99,25,20000
+2025-05-07,Bota Coturno,Calçados,Ana Souza,4,289.9,1159.6,0,4,18000
+2025-05-07,Meia Kit c/3,Vestuário,Carlos Lima,1,29.9,29.9,98,25,15000
+2025-05-08,Mochila Executiva,Acessórios,Ana Souza,5,159.9,799.5,33,7,18000
+2025-05-08,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,88,20,18000
+2025-05-08,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,97,25,20000
+2025-05-09,Jaqueta Corta-Vento,Vestuário,Carlos Lima,4,199.9,799.6,0,5,15000
+2025-05-09,Tênis Urbano,Calçados,Ana Souza,3,249.9,749.7,27,6,18000
+2025-05-09,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,32,7,18000
+2025-05-09,Calça Jeans,Vestuário,Diego Alves,2,129.9,259.8,39,8,12000
+2025-05-09,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,97,25,20000
+2025-05-09,Mochila Executiva,Acessórios,Carlos Lima,3,159.9,479.7,31,7,15000
+2025-05-09,Jaqueta Corta-Vento,Vestuário,Diego Alves,4,199.9,799.6,0,5,12000
+2025-05-09,Calça Jeans,Vestuário,Ana Souza,2,129.9,259.8,38,8,18000
+2025-05-10,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,38,9,15000
+2025-05-10,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,38,8,20000
+2025-05-10,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,27,6,12000
+2025-05-11,Boné Aba Reta,Acessórios,Diego Alves,3,49.9,149.7,88,20,12000
+2025-05-11,Camiseta Basic,Vestuário,Ana Souza,1,39.9,39.9,78,15,18000
+2025-05-11,Sandália Casual,Calçados,Beatriz Rocha,3,89.9,269.7,42,10,20000
+2025-05-11,Tênis Urbano,Calçados,Diego Alves,4,249.9,999.6,26,6,12000
+2025-05-11,Bota Coturno,Calçados,Ana Souza,3,289.9,869.7,0,4,18000
+2025-05-11,Tênis Urbano,Calçados,Carlos Lima,1,249.9,249.9,25,6,15000
+2025-05-12,Camiseta Basic,Vestuário,Diego Alves,5,39.9,199.5,78,15,12000
+2025-05-12,Jaqueta Corta-Vento,Vestuário,Diego Alves,5,199.9,999.5,0,5,12000
+2025-05-12,Bota Coturno,Calçados,Beatriz Rocha,4,289.9,1159.6,0,4,20000
+2025-05-13,Mochila Executiva,Acessórios,Carlos Lima,1,159.9,159.9,30,7,15000
+2025-05-13,Meia Kit c/3,Vestuário,Carlos Lima,5,29.9,149.5,97,25,15000
+2025-05-13,Boné Aba Reta,Acessórios,Carlos Lima,3,49.9,149.7,87,20,15000
+2025-05-13,Boné Aba Reta,Acessórios,Carlos Lima,4,49.9,199.6,86,20,15000
+2025-05-14,Boné Aba Reta,Acessórios,Carlos Lima,5,49.9,249.5,86,20,15000
+2025-05-14,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,42,10,15000
+2025-05-14,Jaqueta Corta-Vento,Vestuário,Diego Alves,1,199.9,199.9,0,5,12000
+2025-05-15,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,38,9,15000
+2025-05-15,Bota Coturno,Calçados,Diego Alves,3,289.9,869.7,0,4,12000
+2025-05-15,Camiseta Basic,Vestuário,Beatriz Rocha,3,39.9,119.7,77,15,20000
+2025-05-15,Camiseta Basic,Vestuário,Diego Alves,4,39.9,159.6,76,15,12000
+2025-05-15,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,25,6,12000
+2025-05-15,Jaqueta Corta-Vento,Vestuário,Carlos Lima,2,199.9,399.8,0,5,15000
+2025-05-15,Óculos de Sol,Acessórios,Carlos Lima,3,119.9,359.7,37,9,15000
+2025-05-15,Boné Aba Reta,Acessórios,Diego Alves,5,49.9,249.5,85,20,12000
+2025-05-16,Sandália Casual,Calçados,Carlos Lima,4,89.9,359.6,42,10,15000
+2025-05-16,Óculos de Sol,Acessórios,Carlos Lima,3,119.9,359.7,36,9,15000
+2025-05-16,Camiseta Basic,Vestuário,Carlos Lima,4,39.9,159.6,75,15,15000
+2025-05-16,Tênis Urbano,Calçados,Diego Alves,3,249.9,749.7,25,6,12000
+2025-05-16,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,1,199.9,199.9,0,5,20000
+2025-05-17,Bota Coturno,Calçados,Carlos Lima,4,289.9,1159.6,0,4,15000
+2025-05-17,Sandália Casual,Calçados,Diego Alves,4,89.9,359.6,42,10,12000
+2025-05-17,Jaqueta Corta-Vento,Vestuário,Ana Souza,5,199.9,999.5,0,5,18000
+2025-05-17,Meia Kit c/3,Vestuário,Ana Souza,2,29.9,59.8,96,25,18000
+2025-05-18,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,41,10,15000
+2025-05-18,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,30,7,15000
+2025-05-18,Meia Kit c/3,Vestuário,Carlos Lima,2,29.9,59.8,95,25,15000
+2025-05-18,Bota Coturno,Calçados,Beatriz Rocha,2,289.9,579.8,0,4,20000
+2025-05-18,Mochila Executiva,Acessórios,Beatriz Rocha,4,159.9,639.6,29,7,20000
+2025-05-19,Boné Aba Reta,Acessórios,Beatriz Rocha,5,49.9,249.5,84,20,20000
+2025-05-19,Bota Coturno,Calçados,Diego Alves,3,289.9,869.7,0,4,12000
+2025-05-19,Tênis Urbano,Calçados,Carlos Lima,4,249.9,999.6,25,6,15000
+2025-05-19,Sandália Casual,Calçados,Carlos Lima,4,89.9,359.6,41,10,15000
+2025-05-20,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,28,7,18000
+2025-05-20,Mochila Executiva,Acessórios,Diego Alves,5,159.9,799.5,27,7,12000
+2025-05-20,Bota Coturno,Calçados,Ana Souza,5,289.9,1449.5,0,4,18000
+2025-05-20,Tênis Urbano,Calçados,Beatriz Rocha,4,249.9,999.6,24,6,20000
+2025-05-20,Jaqueta Corta-Vento,Vestuário,Diego Alves,5,199.9,999.5,0,5,12000
+2025-05-21,Bota Coturno,Calçados,Carlos Lima,4,289.9,1159.6,0,4,15000
+2025-05-21,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,23,6,20000
+2025-05-21,Calça Jeans,Vestuário,Ana Souza,1,129.9,129.9,37,8,18000
+2025-05-21,Tênis Urbano,Calçados,Ana Souza,1,249.9,249.9,22,6,18000
+2025-05-21,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,26,7,18000
+2025-05-21,Óculos de Sol,Acessórios,Ana Souza,1,119.9,119.9,35,9,18000
+2025-05-22,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,75,15,18000
+2025-05-22,Camiseta Basic,Vestuário,Diego Alves,2,39.9,79.8,74,15,12000
+2025-05-22,Boné Aba Reta,Acessórios,Diego Alves,4,49.9,199.6,84,20,12000
+2025-05-22,Sandália Casual,Calçados,Diego Alves,3,89.9,269.7,40,10,12000
+2025-05-22,Tênis Urbano,Calçados,Diego Alves,4,249.9,999.6,21,6,12000
+2025-05-22,Óculos de Sol,Acessórios,Diego Alves,3,119.9,359.7,34,9,12000
+2025-05-22,Óculos de Sol,Acessórios,Diego Alves,3,119.9,359.7,33,9,12000
+2025-05-22,Sandália Casual,Calçados,Carlos Lima,3,89.9,269.7,39,10,15000
+2025-05-23,Boné Aba Reta,Acessórios,Ana Souza,1,49.9,49.9,83,20,18000
+2025-05-23,Boné Aba Reta,Acessórios,Beatriz Rocha,1,49.9,49.9,82,20,20000
+2025-05-23,Óculos de Sol,Acessórios,Ana Souza,5,119.9,599.5,33,9,18000
+2025-05-23,Camiseta Basic,Vestuário,Carlos Lima,1,39.9,39.9,74,15,15000
+2025-05-23,Boné Aba Reta,Acessórios,Beatriz Rocha,3,49.9,149.7,81,20,20000
+2025-05-23,Calça Jeans,Vestuário,Diego Alves,3,129.9,389.7,36,8,12000
+2025-05-23,Jaqueta Corta-Vento,Vestuário,Diego Alves,2,199.9,399.8,0,5,12000
+2025-05-23,Mochila Executiva,Acessórios,Beatriz Rocha,1,159.9,159.9,26,7,20000
+2025-05-24,Mochila Executiva,Acessórios,Beatriz Rocha,4,159.9,639.6,26,7,20000
+2025-05-24,Óculos de Sol,Acessórios,Diego Alves,2,119.9,239.8,33,9,12000
+2025-05-24,Jaqueta Corta-Vento,Vestuário,Carlos Lima,1,199.9,199.9,0,5,15000
+2025-05-24,Meia Kit c/3,Vestuário,Beatriz Rocha,4,29.9,119.6,94,25,20000
+2025-05-24,Tênis Urbano,Calçados,Diego Alves,2,249.9,499.8,21,6,12000
+2025-05-24,Calça Jeans,Vestuário,Carlos Lima,3,129.9,389.7,36,8,15000
+2025-05-25,Óculos de Sol,Acessórios,Carlos Lima,3,119.9,359.7,32,9,15000
+2025-05-25,Sandália Casual,Calçados,Ana Souza,3,89.9,269.7,38,10,18000
+2025-05-25,Sandália Casual,Calçados,Ana Souza,5,89.9,449.5,37,10,18000
+2025-05-25,Bota Coturno,Calçados,Ana Souza,3,289.9,869.7,0,4,18000
+2025-05-26,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,74,15,12000
+2025-05-26,Boné Aba Reta,Acessórios,Diego Alves,2,49.9,99.8,81,20,12000
+2025-05-26,Camiseta Basic,Vestuário,Ana Souza,6,39.9,239.4,73,15,18000
+2025-05-26,Mochila Executiva,Acessórios,Carlos Lima,5,159.9,799.5,26,7,15000
+2025-05-26,Jaqueta Corta-Vento,Vestuário,Diego Alves,6,199.9,1199.4,0,5,12000
+2025-05-26,Bota Coturno,Calçados,Diego Alves,6,289.9,1739.4,0,4,12000
+2025-05-26,Tênis Urbano,Calçados,Ana Souza,5,249.9,1249.5,21,6,18000
+2025-05-26,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,73,15,15000
+2025-05-27,Camiseta Basic,Vestuário,Diego Alves,2,39.9,79.8,72,15,12000
+2025-05-27,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,1,199.9,199.9,0,5,20000
+2025-05-27,Tênis Urbano,Calçados,Carlos Lima,6,249.9,1499.4,21,6,15000
+2025-05-27,Boné Aba Reta,Acessórios,Carlos Lima,5,49.9,249.5,81,20,15000
+2025-05-27,Boné Aba Reta,Acessórios,Diego Alves,6,49.9,299.4,81,20,12000
+2025-05-27,Jaqueta Corta-Vento,Vestuário,Carlos Lima,5,199.9,999.5,0,5,15000
+2025-05-28,Óculos de Sol,Acessórios,Carlos Lima,6,119.9,719.4,31,9,15000
+2025-05-28,Óculos de Sol,Acessórios,Carlos Lima,5,119.9,599.5,30,9,15000
+2025-05-28,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,36,8,20000
+2025-05-28,Calça Jeans,Vestuário,Diego Alves,3,129.9,389.7,35,8,12000
+2025-05-28,Boné Aba Reta,Acessórios,Diego Alves,2,49.9,99.8,81,20,12000
+2025-05-28,Boné Aba Reta,Acessórios,Diego Alves,5,49.9,249.5,81,20,12000
+2025-05-29,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,71,15,12000
+2025-05-29,Sandália Casual,Calçados,Ana Souza,5,89.9,449.5,37,10,18000
+2025-05-29,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,25,7,15000
+2025-05-29,Jaqueta Corta-Vento,Vestuário,Carlos Lima,1,199.9,199.9,0,5,15000
+2025-05-29,Sandália Casual,Calçados,Ana Souza,5,89.9,449.5,36,10,18000
+2025-05-29,Meia Kit c/3,Vestuário,Carlos Lima,1,29.9,29.9,94,25,15000
+2025-05-29,Boné Aba Reta,Acessórios,Carlos Lima,1,49.9,49.9,80,20,15000
+2025-05-29,Óculos de Sol,Acessórios,Beatriz Rocha,1,119.9,119.9,30,9,20000
+2025-05-30,Bota Coturno,Calçados,Ana Souza,3,289.9,869.7,0,4,18000
+2025-05-30,Meia Kit c/3,Vestuário,Diego Alves,3,29.9,89.7,93,25,12000
+2025-05-30,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,20,6,20000
+2025-05-30,Sandália Casual,Calçados,Ana Souza,5,89.9,449.5,35,10,18000
+2025-05-30,Jaqueta Corta-Vento,Vestuário,Carlos Lima,1,199.9,199.9,0,5,15000
+2025-05-30,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,2,199.9,399.8,0,5,20000
+2025-05-30,Sandália Casual,Calçados,Diego Alves,5,89.9,449.5,34,10,12000
+2025-05-30,Óculos de Sol,Acessórios,Beatriz Rocha,2,119.9,239.8,30,9,20000
+2025-05-31,Bota Coturno,Calçados,Beatriz Rocha,5,289.9,1449.5,0,4,20000
+2025-05-31,Boné Aba Reta,Acessórios,Beatriz Rocha,5,49.9,249.5,79,20,20000
+2025-05-31,Boné Aba Reta,Acessórios,Diego Alves,1,49.9,49.9,79,20,12000
+2025-05-31,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,92,25,20000
+2025-05-31,Calça Jeans,Vestuário,Ana Souza,5,129.9,649.5,35,8,18000
+2025-05-31,Óculos de Sol,Acessórios,Ana Souza,3,119.9,359.7,29,9,18000
+2025-06-01,Calça Jeans,Vestuário,Beatriz Rocha,4,129.9,519.6,40,8,20000
+2025-06-01,Mochila Executiva,Acessórios,Beatriz Rocha,3,159.9,479.7,35,7,20000
+2025-06-01,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,79,15,18000
+2025-06-01,Calça Jeans,Vestuário,Diego Alves,1,129.9,129.9,40,8,12000
+2025-06-01,Bota Coturno,Calçados,Beatriz Rocha,3,289.9,869.7,0,4,20000
+2025-06-01,Mochila Executiva,Acessórios,Beatriz Rocha,4,159.9,639.6,34,7,20000
+2025-06-01,Camiseta Basic,Vestuário,Ana Souza,1,39.9,39.9,78,15,18000
+2025-06-02,Tênis Urbano,Calçados,Beatriz Rocha,5,249.9,1249.5,29,6,20000
+2025-06-02,Óculos de Sol,Acessórios,Diego Alves,1,119.9,119.9,39,9,12000
+2025-06-02,Mochila Executiva,Acessórios,Diego Alves,3,159.9,479.7,34,7,12000
+2025-06-03,Calça Jeans,Vestuário,Beatriz Rocha,2,129.9,259.8,40,8,20000
+2025-06-03,Sandália Casual,Calçados,Ana Souza,4,89.9,359.6,44,10,18000
+2025-06-03,Calça Jeans,Vestuário,Ana Souza,1,129.9,129.9,39,8,18000
+2025-06-03,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,0,4,20000
+2025-06-04,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,78,15,12000
+2025-06-04,Bota Coturno,Calçados,Carlos Lima,2,289.9,579.8,0,4,15000
+2025-06-04,Bota Coturno,Calçados,Ana Souza,4,289.9,1159.6,0,4,18000
+2025-06-04,Boné Aba Reta,Acessórios,Diego Alves,5,49.9,249.5,89,20,12000
+2025-06-04,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,44,10,15000
+2025-06-04,Óculos de Sol,Acessórios,Carlos Lima,5,119.9,599.5,39,9,15000
+2025-06-05,Boné Aba Reta,Acessórios,Beatriz Rocha,2,49.9,99.8,89,20,20000
+2025-06-05,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,78,15,12000
+2025-06-05,Camiseta Basic,Vestuário,Diego Alves,2,39.9,79.8,78,15,12000
+2025-06-05,Camiseta Basic,Vestuário,Diego Alves,5,39.9,199.5,77,15,12000
+2025-06-05,Calça Jeans,Vestuário,Beatriz Rocha,4,129.9,519.6,39,8,20000
+2025-06-05,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,39,9,15000
+2025-06-05,Óculos de Sol,Acessórios,Carlos Lima,4,119.9,479.6,38,9,15000
+2025-06-05,Boné Aba Reta,Acessórios,Carlos Lima,2,49.9,99.8,88,20,15000
+2025-06-06,Calça Jeans,Vestuário,Diego Alves,4,129.9,519.6,38,8,12000
+2025-06-06,Sandália Casual,Calçados,Beatriz Rocha,4,89.9,359.6,44,10,20000
+2025-06-06,Tênis Urbano,Calçados,Ana Souza,3,249.9,749.7,29,6,18000
+2025-06-06,Tênis Urbano,Calçados,Ana Souza,2,249.9,499.8,28,6,18000
+2025-06-06,Bota Coturno,Calçados,Beatriz Rocha,2,289.9,579.8,0,4,20000
+2025-06-06,Camiseta Basic,Vestuário,Beatriz Rocha,1,39.9,39.9,77,15,20000
+2025-06-07,Boné Aba Reta,Acessórios,Carlos Lima,5,49.9,249.5,87,20,15000
+2025-06-07,Sandália Casual,Calçados,Beatriz Rocha,3,89.9,269.7,43,10,20000
+2025-06-07,Óculos de Sol,Acessórios,Ana Souza,4,119.9,479.6,38,9,18000
+2025-06-07,Mochila Executiva,Acessórios,Diego Alves,2,159.9,319.8,34,7,12000
+2025-06-07,Óculos de Sol,Acessórios,Ana Souza,5,119.9,599.5,37,9,18000
+2025-06-08,Calça Jeans,Vestuário,Carlos Lima,5,129.9,649.5,38,8,15000
+2025-06-08,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,37,8,20000
+2025-06-08,Mochila Executiva,Acessórios,Diego Alves,4,159.9,639.6,34,7,12000
+2025-06-09,Boné Aba Reta,Acessórios,Ana Souza,4,49.9,199.6,87,20,18000
+2025-06-09,Calça Jeans,Vestuário,Carlos Lima,4,129.9,519.6,37,8,15000
+2025-06-09,Tênis Urbano,Calçados,Diego Alves,1,249.9,249.9,28,6,12000
+2025-06-09,Tênis Urbano,Calçados,Beatriz Rocha,3,249.9,749.7,27,6,20000
+2025-06-09,Sandália Casual,Calçados,Carlos Lima,3,89.9,269.7,42,10,15000
+2025-06-09,Sandália Casual,Calçados,Carlos Lima,2,89.9,179.8,41,10,15000
+2025-06-10,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,26,6,20000
+2025-06-10,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,100,25,20000
+2025-06-10,Meia Kit c/3,Vestuário,Carlos Lima,1,29.9,29.9,99,25,15000
+2025-06-10,Camiseta Basic,Vestuário,Beatriz Rocha,4,39.9,159.6,76,15,20000
+2025-06-10,Meia Kit c/3,Vestuário,Carlos Lima,2,29.9,59.8,98,25,15000
+2025-06-10,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,26,6,20000
+2025-06-11,Tênis Urbano,Calçados,Beatriz Rocha,5,249.9,1249.5,25,6,20000
+2025-06-11,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,75,15,18000
+2025-06-11,Boné Aba Reta,Acessórios,Carlos Lima,5,49.9,249.5,87,20,15000
+2025-06-11,Tênis Urbano,Calçados,Carlos Lima,4,249.9,999.6,24,6,15000
+2025-06-11,Boné Aba Reta,Acessórios,Ana Souza,5,49.9,249.5,87,20,18000
+2025-06-12,Óculos de Sol,Acessórios,Carlos Lima,3,119.9,359.7,36,9,15000
+2025-06-12,Sandália Casual,Calçados,Carlos Lima,4,89.9,359.6,40,10,15000
+2025-06-12,Sandália Casual,Calçados,Beatriz Rocha,1,89.9,89.9,39,10,20000
+2025-06-12,Boné Aba Reta,Acessórios,Beatriz Rocha,3,49.9,149.7,86,20,20000
+2025-06-12,Boné Aba Reta,Acessórios,Beatriz Rocha,1,49.9,49.9,86,20,20000
+2025-06-12,Bota Coturno,Calçados,Ana Souza,2,289.9,579.8,0,4,18000
+2025-06-13,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,1,199.9,199.9,0,5,20000
+2025-06-13,Meia Kit c/3,Vestuário,Ana Souza,1,29.9,29.9,98,25,18000
+2025-06-13,Jaqueta Corta-Vento,Vestuário,Carlos Lima,3,199.9,599.7,0,5,15000
+2025-06-14,Tênis Urbano,Calçados,Ana Souza,3,249.9,749.7,23,6,18000
+2025-06-14,Camiseta Basic,Vestuário,Diego Alves,2,39.9,79.8,75,15,12000
+2025-06-14,Óculos de Sol,Acessórios,Beatriz Rocha,2,119.9,239.8,35,9,20000
+2025-06-14,Calça Jeans,Vestuário,Diego Alves,1,129.9,129.9,36,8,12000
+2025-06-14,Sandália Casual,Calçados,Diego Alves,5,89.9,449.5,38,10,12000
+2025-06-14,Mochila Executiva,Acessórios,Beatriz Rocha,5,159.9,799.5,34,7,20000
+2025-06-15,Calça Jeans,Vestuário,Diego Alves,3,129.9,389.7,36,8,12000
+2025-06-15,Jaqueta Corta-Vento,Vestuário,Diego Alves,3,199.9,599.7,0,5,12000
+2025-06-15,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,35,8,15000
+2025-06-15,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,5,199.9,999.5,0,5,20000
+2025-06-15,Camiseta Basic,Vestuário,Ana Souza,3,39.9,119.7,74,15,18000
+2025-06-16,Jaqueta Corta-Vento,Vestuário,Carlos Lima,1,199.9,199.9,0,5,15000
+2025-06-16,Óculos de Sol,Acessórios,Ana Souza,3,119.9,359.7,34,9,18000
+2025-06-16,Meia Kit c/3,Vestuário,Carlos Lima,2,29.9,59.8,97,25,15000
+2025-06-16,Óculos de Sol,Acessórios,Carlos Lima,1,119.9,119.9,33,9,15000
+2025-06-16,Sandália Casual,Calçados,Beatriz Rocha,2,89.9,179.8,38,10,20000
+2025-06-16,Jaqueta Corta-Vento,Vestuário,Diego Alves,5,199.9,999.5,0,5,12000
+2025-06-17,Jaqueta Corta-Vento,Vestuário,Ana Souza,4,199.9,799.6,0,5,18000
+2025-06-17,Tênis Urbano,Calçados,Ana Souza,1,249.9,249.9,22,6,18000
+2025-06-17,Calça Jeans,Vestuário,Carlos Lima,1,129.9,129.9,35,8,15000
+2025-06-17,Bota Coturno,Calçados,Diego Alves,5,289.9,1449.5,0,4,12000
+2025-06-18,Jaqueta Corta-Vento,Vestuário,Carlos Lima,5,199.9,999.5,0,5,15000
+2025-06-18,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,96,25,20000
+2025-06-18,Camiseta Basic,Vestuário,Carlos Lima,1,39.9,39.9,73,15,15000
+2025-06-18,Boné Aba Reta,Acessórios,Carlos Lima,4,49.9,199.6,85,20,15000
+2025-06-19,Mochila Executiva,Acessórios,Ana Souza,1,159.9,159.9,33,7,18000
+2025-06-19,Sandália Casual,Calçados,Beatriz Rocha,1,89.9,89.9,37,10,20000
+2025-06-19,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,2,199.9,399.8,0,5,20000
+2025-06-19,Meia Kit c/3,Vestuário,Ana Souza,2,29.9,59.8,96,25,18000
+2025-06-19,Bota Coturno,Calçados,Ana Souza,2,289.9,579.8,0,4,18000
+2025-06-19,Tênis Urbano,Calçados,Ana Souza,2,249.9,499.8,22,6,18000
+2025-06-19,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,22,6,20000
+2025-06-20,Meia Kit c/3,Vestuário,Diego Alves,2,29.9,59.8,95,25,12000
+2025-06-20,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,72,15,15000
+2025-06-20,Meia Kit c/3,Vestuário,Beatriz Rocha,1,29.9,29.9,94,25,20000
+2025-06-20,Meia Kit c/3,Vestuário,Ana Souza,5,29.9,149.5,93,25,18000
+2025-06-20,Óculos de Sol,Acessórios,Beatriz Rocha,5,119.9,599.5,33,9,20000
+2025-06-20,Boné Aba Reta,Acessórios,Beatriz Rocha,4,49.9,199.6,85,20,20000
+2025-06-21,Tênis Urbano,Calçados,Beatriz Rocha,1,249.9,249.9,22,6,20000
+2025-06-21,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,33,7,15000
+2025-06-21,Camiseta Basic,Vestuário,Diego Alves,3,39.9,119.7,71,15,12000
+2025-06-21,Boné Aba Reta,Acessórios,Ana Souza,3,49.9,149.7,84,20,18000
+2025-06-21,Bota Coturno,Calçados,Diego Alves,2,289.9,579.8,0,4,12000
+2025-06-21,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,32,7,18000
+2025-06-22,Camiseta Basic,Vestuário,Beatriz Rocha,1,39.9,39.9,70,15,20000
+2025-06-22,Boné Aba Reta,Acessórios,Beatriz Rocha,1,49.9,49.9,84,20,20000
+2025-06-22,Meia Kit c/3,Vestuário,Beatriz Rocha,2,29.9,59.8,93,25,20000
+2025-06-22,Óculos de Sol,Acessórios,Ana Souza,1,119.9,119.9,33,9,18000
+2025-06-22,Meia Kit c/3,Vestuário,Beatriz Rocha,3,29.9,89.7,92,25,20000
+2025-06-22,Bota Coturno,Calçados,Carlos Lima,3,289.9,869.7,0,4,15000
+2025-06-23,Óculos de Sol,Acessórios,Diego Alves,3,119.9,359.7,33,9,12000
+2025-06-23,Sandália Casual,Calçados,Diego Alves,3,89.9,269.7,37,10,12000
+2025-06-23,Óculos de Sol,Acessórios,Diego Alves,2,119.9,239.8,33,9,12000
+2025-06-23,Tênis Urbano,Calçados,Beatriz Rocha,4,249.9,999.6,21,6,20000
+2025-06-23,Bota Coturno,Calçados,Beatriz Rocha,1,289.9,289.9,0,4,20000
+2025-06-23,Jaqueta Corta-Vento,Vestuário,Ana Souza,4,199.9,799.6,0,5,18000
+2025-06-23,Bota Coturno,Calçados,Beatriz Rocha,2,289.9,579.8,0,4,20000
+2025-06-24,Boné Aba Reta,Acessórios,Carlos Lima,4,49.9,199.6,83,20,15000
+2025-06-24,Sandália Casual,Calçados,Beatriz Rocha,5,89.9,449.5,37,10,20000
+2025-06-24,Camiseta Basic,Vestuário,Beatriz Rocha,4,39.9,159.6,70,15,20000
+2025-06-24,Óculos de Sol,Acessórios,Ana Souza,2,119.9,239.8,33,9,18000
+2025-06-24,Tênis Urbano,Calçados,Diego Alves,2,249.9,499.8,21,6,12000
+2025-06-24,Mochila Executiva,Acessórios,Beatriz Rocha,5,159.9,799.5,32,7,20000
+2025-06-24,Tênis Urbano,Calçados,Beatriz Rocha,4,249.9,999.6,21,6,20000
+2025-06-24,Sandália Casual,Calçados,Ana Souza,4,89.9,359.6,36,10,18000
+2025-06-25,Mochila Executiva,Acessórios,Carlos Lima,2,159.9,319.8,32,7,15000
+2025-06-25,Camiseta Basic,Vestuário,Carlos Lima,3,39.9,119.7,69,15,15000
+2025-06-25,Meia Kit c/3,Vestuário,Ana Souza,2,29.9,59.8,92,25,18000
+2025-06-26,Tênis Urbano,Calçados,Beatriz Rocha,3,249.9,749.7,20,6,20000
+2025-06-26,Calça Jeans,Vestuário,Diego Alves,5,129.9,649.5,34,8,12000
+2025-06-26,Sandália Casual,Calçados,Ana Souza,1,89.9,89.9,35,10,18000
+2025-06-26,Meia Kit c/3,Vestuário,Diego Alves,1,29.9,29.9,92,25,12000
+2025-06-26,Tênis Urbano,Calçados,Beatriz Rocha,2,249.9,499.8,20,6,20000
+2025-06-26,Óculos de Sol,Acessórios,Carlos Lima,3,119.9,359.7,33,9,15000
+2025-06-26,Tênis Urbano,Calçados,Diego Alves,6,249.9,1499.4,20,6,12000
+2025-06-27,Tênis Urbano,Calçados,Diego Alves,5,249.9,1249.5,19,6,12000
+2025-06-27,Óculos de Sol,Acessórios,Diego Alves,5,119.9,599.5,32,9,12000
+2025-06-27,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,3,199.9,599.7,0,5,20000
+2025-06-27,Boné Aba Reta,Acessórios,Carlos Lima,3,49.9,149.7,82,20,15000
+2025-06-27,Bota Coturno,Calçados,Beatriz Rocha,5,289.9,1449.5,0,4,20000
+2025-06-28,Tênis Urbano,Calçados,Ana Souza,3,249.9,749.7,18,6,18000
+2025-06-28,Camiseta Basic,Vestuário,Diego Alves,1,39.9,39.9,69,15,12000
+2025-06-28,Óculos de Sol,Acessórios,Ana Souza,6,119.9,719.4,31,9,18000
+2025-06-28,Calça Jeans,Vestuário,Carlos Lima,3,129.9,389.7,34,8,15000
+2025-06-28,Camiseta Basic,Vestuário,Diego Alves,6,39.9,239.4,68,15,12000
+2025-06-28,Jaqueta Corta-Vento,Vestuário,Ana Souza,3,199.9,599.7,0,5,18000
+2025-06-29,Camiseta Basic,Vestuário,Ana Souza,6,39.9,239.4,67,15,18000
+2025-06-29,Óculos de Sol,Acessórios,Carlos Lima,2,119.9,239.8,30,9,15000
+2025-06-29,Mochila Executiva,Acessórios,Ana Souza,3,159.9,479.7,32,7,18000
+2025-06-29,Jaqueta Corta-Vento,Vestuário,Beatriz Rocha,1,199.9,199.9,0,5,20000
+2025-06-30,Meia Kit c/3,Vestuário,Ana Souza,1,29.9,29.9,92,25,18000
+2025-06-30,Mochila Executiva,Acessórios,Diego Alves,5,159.9,799.5,32,7,12000
+2025-06-30,Sandália Casual,Calçados,Beatriz Rocha,2,89.9,179.8,34,10,20000
+2025-06-30,Calça Jeans,Vestuário,Beatriz Rocha,3,129.9,389.7,34,8,20000

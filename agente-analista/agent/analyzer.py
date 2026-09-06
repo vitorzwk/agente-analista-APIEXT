@@ -19,10 +19,41 @@ Bibliotecas usadas:
 - plotly.express: para criar gráficos interativos (o usuário pode dar
   zoom, passar o mouse para ver valores exatos, etc.), o que é mais
   rico que um gráfico estático.
+
+📘 NOTA SOBRE ESTÉTICA: PALETA_CORES e _aplicar_estilo() só ajustam a
+aparência dos gráficos (cores, fonte, fundo transparente) para
+combinar com o tema do app (assets/style.css). Nenhum número
+calculado muda por causa disso.
 """
 
 import pandas as pd
 import plotly.express as px
+
+# Paleta de cores do dashboard (indigo/âmbar/teal), usada em todos os
+# gráficos para manter uma identidade visual única e coerente.
+PALETA_CORES = ["#4F46E5", "#0EA5E9", "#F59E0B", "#10B981", "#F43F5E", "#8B5CF6"]
+
+# Escala contínua (para o gráfico de giro de estoque, que usa cor
+# gradiente em vez de cores categóricas).
+ESCALA_CONTINUA = [[0, "#E0E7FF"], [0.5, "#818CF8"], [1, "#4F46E5"]]
+
+
+def _aplicar_estilo(fig):
+    """
+    Aplica um estilo visual padrão (fonte, cores de fundo, margens) a
+    qualquer figura Plotly do dashboard, para que todos os gráficos
+    pareçam parte do mesmo produto.
+    """
+    fig.update_layout(
+        template="plotly_white",
+        font=dict(family="Inter, -apple-system, sans-serif", size=13, color="#1E293B"),
+        title_font=dict(family="Inter, -apple-system, sans-serif", size=18, color="#1E293B"),
+        plot_bgcolor="rgba(0,0,0,0)",
+        paper_bgcolor="rgba(0,0,0,0)",
+        margin=dict(t=60, l=10, r=10, b=10),
+        legend_title_text="",
+    )
+    return fig
 
 
 class AnalisadorDados:
@@ -159,9 +190,10 @@ class AnalisadorDados:
             markers=True,
             title="Evolução do Faturamento",
             labels={"periodo": "Período", "faturamento": "Faturamento (R$)"},
+            color_discrete_sequence=PALETA_CORES,
         )
-        fig.update_layout(template="plotly_white")
-        return fig
+        fig.update_traces(line=dict(width=3), marker=dict(size=8))
+        return _aplicar_estilo(fig)
 
     def grafico_faturamento_categoria(self):
         dados = self.faturamento_por_categoria()
@@ -172,9 +204,11 @@ class AnalisadorDados:
             title="Faturamento por Categoria",
             labels={"categoria": "Categoria", "valor_total": "Faturamento (R$)"},
             color="categoria",
+            color_discrete_sequence=PALETA_CORES,
         )
-        fig.update_layout(template="plotly_white", showlegend=False)
-        return fig
+        fig.update_traces(marker_line_width=0)
+        fig.update_layout(showlegend=False)
+        return _aplicar_estilo(fig)
 
     def grafico_desempenho_vendedores(self):
         dados = self.faturamento_por_vendedor()
@@ -185,9 +219,10 @@ class AnalisadorDados:
             barmode="group",
             title="Faturamento x Meta por Vendedor (acumulado no período)",
             labels={"value": "Valor (R$)", "vendedor": "Vendedor", "variable": "Indicador"},
+            color_discrete_sequence=[PALETA_CORES[0], PALETA_CORES[2]],
         )
-        fig.update_layout(template="plotly_white")
-        return fig
+        fig.update_traces(marker_line_width=0)
+        return _aplicar_estilo(fig)
 
     def grafico_giro_estoque(self):
         dados = self.calcular_giro_estoque()
@@ -198,7 +233,8 @@ class AnalisadorDados:
             title="Giro de Estoque por Produto",
             labels={"produto": "Produto", "giro_estoque": "Giro (qtd. vendida / estoque atual)"},
             color="giro_estoque",
-            color_continuous_scale="Blues",
+            color_continuous_scale=ESCALA_CONTINUA,
         )
-        fig.update_layout(template="plotly_white", xaxis_tickangle=-30)
-        return fig
+        fig.update_traces(marker_line_width=0)
+        fig.update_layout(xaxis_tickangle=-30)
+        return _aplicar_estilo(fig)

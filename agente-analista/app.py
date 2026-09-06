@@ -20,7 +20,7 @@ decisões humanas).
 
 ESTRUTURA DESTE ARQUIVO
 ------------------------
-1. Configuração da página e carregamento dos dados
+1. Configuração da página, tema visual e carregamento dos dados
 2. Barra lateral (filtros e navegação)
 3. Aba "Dashboard de KPIs" -> usa agent/analyzer.py
 4. Aba "Relatório Executivo" -> usa agent/reporter.py
@@ -30,7 +30,15 @@ ESTRUTURA DESTE ARQUIVO
 Em cada seção, deixamos comentários "didáticos" (📘) explicando o
 raciocínio para quem está estudando Administração e ainda não tem
 familiaridade com programação.
+
+📘 NOTA SOBRE ESTÉTICA: a aparência do app vem de dois lugares que
+não mexem em nenhuma regra de negócio:
+  - `.streamlit/config.toml`  -> tema nativo do Streamlit (cores, fonte)
+  - `assets/style.css`        -> CSS extra, carregado pela função
+                                  `carregar_css()` logo abaixo
 """
+
+from pathlib import Path
 
 import streamlit as st
 import pandas as pd
@@ -44,6 +52,23 @@ from utils.helpers import formatar_moeda, carregar_dados, validar_colunas_necess
 
 
 # ============================================================
+# 0. ESTÉTICA — CSS CUSTOMIZADO
+# ============================================================
+def carregar_css(caminho: str) -> None:
+    """
+    Injeta o CSS de assets/style.css na página.
+
+    📘 Isso é puramente visual: estiliza cards, métricas, botões e
+    abas que o Streamlit já renderiza. Nenhuma funcionalidade do
+    agente depende deste CSS — se o arquivo não existir, o app
+    continua funcionando normalmente, só que com o visual padrão.
+    """
+    css_path = Path(caminho)
+    if css_path.exists():
+        st.markdown(f"<style>{css_path.read_text(encoding='utf-8')}</style>", unsafe_allow_html=True)
+
+
+# ============================================================
 # 1. CONFIGURAÇÃO DA PÁGINA
 # ============================================================
 st.set_page_config(
@@ -51,6 +76,8 @@ st.set_page_config(
     page_icon="🤖",
     layout="wide",
 )
+
+carregar_css("assets/style.css")
 
 # 📘 O st.session_state funciona como uma "memória" da aplicação
 # durante a sessão do usuário. Aqui inicializamos a lista onde vamos
@@ -181,11 +208,22 @@ with aba_kpis:
     giro = analisador.calcular_giro_estoque()
     giro_medio = giro["giro_estoque"].mean() if not giro.empty else 0
 
+    # 📘 Cada métrica agora vive dentro de um st.container(border=True),
+    # o que o CSS de assets/style.css transforma num "card" com sombra
+    # — puramente visual, o cálculo de cada indicador não muda.
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("💰 Faturamento Total", formatar_moeda(faturamento_total))
-    col2.metric("🧾 Ticket Médio", formatar_moeda(ticket_medio))
-    col3.metric("📦 Giro Médio de Estoque", f"{giro_medio:.2f}x")
-    col4.metric("🛒 Nº de Vendas", f"{len(df)}")
+    with col1:
+        with st.container(border=True):
+            st.metric("💰 Faturamento Total", formatar_moeda(faturamento_total))
+    with col2:
+        with st.container(border=True):
+            st.metric("🧾 Ticket Médio", formatar_moeda(ticket_medio))
+    with col3:
+        with st.container(border=True):
+            st.metric("📦 Giro Médio de Estoque", f"{giro_medio:.2f}x")
+    with col4:
+        with st.container(border=True):
+            st.metric("🛒 Nº de Vendas", f"{len(df)}")
 
     st.divider()
 

@@ -455,6 +455,6 @@ with aba_assistente:
 # ============================================================
 st.divider()
 st.caption(
-    "Projeto didático — Agente Analista Administrativo | "
+    "By Vitor Paixão - Projeto didático — Agente Analista Administrativo | "
     "IA aplicada à Administração, com controle humano em todas as decisões."
 )

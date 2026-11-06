@@ -127,7 +127,7 @@ usar_dados_exemplo = st.sidebar.checkbox("Usar dataset de exemplo (empresa fict√
 df = None
 
 if usar_dados_exemplo:
-    df = carregar_dados("data/dados_empresa.csv")
+    df = carregar_dados("agente-analista/data/dados_empresa.csv")
     st.sidebar.success("Usando dados fict√≠cios de exemplo.")
 else:
     arquivo_enviado = st.sidebar.file_uploader(
